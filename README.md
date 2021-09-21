@@ -13,3 +13,5 @@
   *  [2021-09-21 08:54PM] done
   *  [2021-09-21 08:54PM] Pre-Merge
   *  [2021-09-21 08:57PM] Reformatted output of scrape
+* [2021-09-21 09:00PM] Build Summary
+  *  [2021-09-21 09:00PM] Updated README
