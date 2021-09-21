@@ -50,10 +50,10 @@ def scrape():
                 else:
                     details[k].append(v)
 
-        business_registration = details.get('Business Registration')
+        business_registration = details.get('Business Registration')[0]
         category = details.get('Startup Catogory')
-        funding_state = details.get('Funding Stage')
-        startup_stage = details.get('Startup Stage')
+        funding_state = details.get('Funding Stage')[0]
+        startup_stage = details.get('Startup Stage')[0]
         founder = details.get('Founder')
 
         data_list.append(
