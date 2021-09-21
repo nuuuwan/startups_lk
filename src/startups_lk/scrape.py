@@ -2,15 +2,16 @@ import time
 
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
-from utils import jsonx
+from utils import filex, jsonx
 
 from startups_lk._utils import log
 
 URL = 'https://www.startupsl.lk/masterSearchMainWindow'
 TIME_WAIT = 20
+DATA_FILE = '/tmp/startups_lk.json'
 
 
-def scrape():
+def scrape_and_dump():
     options = Options()
     options.headless = True
     driver = webdriver.Firefox(options=options)
@@ -35,7 +36,7 @@ def scrape():
         p_description = div_startup.find_element_by_class_name('card-text')
         description = p_description.text
 
-        a_url = div_startup.find_element_by_xpath("//a[@class='startup_url']")
+        a_url = div_startup.find_elements_by_class_name('startup_url')[1]
         url = a_url.get_attribute('href')
 
         div_detail = div_startup.find_element_by_class_name('div_detail')
@@ -73,12 +74,38 @@ def scrape():
         log.info(f'Wrote {name}')
 
     n_data_list = len(data_list)
-    data_file = '/tmp/startups_lk.json'
-    jsonx.write(data_file, data_list)
-    log.info(f'Wrote {n_data_list} startups to {data_file}')
-
+    jsonx.write(DATA_FILE, data_list)
+    log.info(f'Wrote {n_data_list} startups to {DATA_FILE}')
     driver.quit()
 
 
+def load_startups():
+    return jsonx.read(DATA_FILE)
+
+
+def build_summary():
+    data_list = load_startups()
+    md_lines = [
+        '# Startups in Sri Lanka',
+        'Source: [https://www.startupsl.lk](https://www.startupsl.lk)',
+    ]
+
+    for data in data_list:
+        name = data['name']
+        description = data['description']
+        data['img']
+        url = data['url']
+        md_lines += [
+            f'## {name}',
+            f'{description}',
+            f'[{url}]({url})',
+        ]
+
+    md_file = '/tmp/README.md'
+    filex.write(md_file, '\n'.join(md_lines))
+    log.info(f'Wrote summary to {md_file}')
+
+
 if __name__ == '__main__':
-    scrape()
+    scrape_and_dump()
+    build_summary()
