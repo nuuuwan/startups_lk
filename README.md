@@ -8,3 +8,5 @@
   *  [2021-09-21 07:21PM] Basic scrape
   *  [2021-09-21 08:52PM] Basic Scrape complete
   *  [2021-09-21 08:52PM] Pre-Merge
+* [2021-09-21 08:54PM] Remove extra workflows
+  *  [2021-09-21 08:54PM] Updated README
