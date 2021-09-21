@@ -31,7 +31,7 @@ jobs:
     - name: Run - Upload Data
       run: |
         export PYTHONPATH="$PYTHONPATH:./src"
-        python src/startups_lk/upload_data.py
+        python src/startups_lk/scrape.py
 
     - name: Checkout repo branch data
       uses: actions/checkout@v2
