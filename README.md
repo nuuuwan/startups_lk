@@ -20,7 +20,7 @@
   *  [2021-09-21 09:23PM] Pre-Merge
   *  [2021-09-22 06:44AM] Rename Scrape to Startup
   *  [2021-09-22 06:46AM] Added upload_data
-  *  [2021-09-22 06:46AM] Add lumascape
-  *  [2021-09-22 06:49AM] Add TreeMap - pre
 * [2021-09-22 06:49AM] Add TreeMap
+  *  [2021-09-22 06:49AM] Add TreeMap - pre
   *  [2021-09-22 06:49AM] Updated README
+  *  [2021-09-22 07:06AM] Added get_cat_to_data_list and get_cat_to_n

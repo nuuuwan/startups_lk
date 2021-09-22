@@ -65,7 +65,7 @@ def scrape_and_dump():
                 description=description,
                 url=url,
                 business_registration=business_registration,
-                category=category,
+                c=category,
                 funding_state=funding_state,
                 startup_stage=startup_stage,
                 founder=founder,
