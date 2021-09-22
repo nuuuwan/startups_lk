@@ -39,3 +39,4 @@
   *  [2021-09-22 05:35PM] Changed image file format
   *  [2021-09-22 05:38PM] Changed image file format
   *  [2021-09-22 05:40PM] Changed image file format
+  *  [2021-09-22 05:43PM] Added USE_REMOTE

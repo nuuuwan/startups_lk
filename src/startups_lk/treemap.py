@@ -31,7 +31,8 @@ DEFAULT_REMOTE_IMG_URL = (
     'https://www.startupsl.lk/CompanyLogos/deault-logo.jpg'
 )
 TIME_WAIT = 4
-
+REMOTE_DATA_DIR = 'https://raw.githubusercontent.com/nuuuwan/startups_lk/data'
+USE_REMOTE = True
 
 ssl._create_default_https_context = ssl._create_unverified_context
 OTHER_CAT_N_LIMIT = 10
@@ -288,21 +289,23 @@ def draw_treemap(min_startup_stage_i, min_funding_stage_i):
             image_x = x + img_width * i_x
             image_y = y + img_height * i_y + margin_top / 2
             image_file_only = data['image_file_only']
-            img = f'startups_lk-images/{image_file_only}'
-            remote_img_url = data['remote_img_url']
+            if USE_REMOTE:
+                img = f'{REMOTE_DATA_DIR}/startups_lk-images/{image_file_only}'
+            else:
+                img = f'/tmp/startups_lk-images/{image_file_only}'
 
-            if remote_img_url != DEFAULT_REMOTE_IMG_URL:
-                ET.SubElement(
-                    _svg,
-                    'image',
-                    {
-                        'href': img,
-                        'x': str(image_x + PADDING),
-                        'y': str(image_y + PADDING),
-                        'width': str(img_width - PADDING * 2),
-                        'height': str(img_height - PADDING * 2),
-                    },
-                )
+
+            ET.SubElement(
+                _svg,
+                'image',
+                {
+                    'href': img,
+                    'x': str(image_x + PADDING),
+                    'y': str(image_y + PADDING),
+                    'width': str(img_width - PADDING * 2),
+                    'height': str(img_height - PADDING * 2),
+                },
+            )
 
             i_x += 1
             if i_x >= n_cols:
