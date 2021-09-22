@@ -29,6 +29,7 @@ setuptools.setup(
         'bs4',
         'pytest',
         'selenium',
+        'squarify',
         'tweepy',
         'utils-nuuuwan',
     ],
