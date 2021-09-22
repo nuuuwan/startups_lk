@@ -5,6 +5,9 @@ from startups_lk._utils import log
 CACHE_NAME = 'startups_lk'
 CACHE_TIMEOUT = 3600
 
+URL_DATA_SOURCE = 'https://www.startupsl.lk/masterSearchMainWindow'
+URL_DATA_SOURCE_DOMAIN = 'www.startupsl.lk'
+
 
 def build_reverse_index(index):
     return dict(
@@ -28,11 +31,15 @@ STARTUP_STAGES_INDEX = {
 }
 
 
-def get_startup_stage_id(startup_stage):
+def get_startup_stage_i(startup_stage):
     if startup_stage not in STARTUP_STAGES_INDEX:
         log.error(f'Unknown startup_stage: {startup_stage}')
     return STARTUP_STAGES_INDEX.get(startup_stage, 0)
 
+STARTUP_STAGES_INDEX_REV = build_reverse_index(STARTUP_STAGES_INDEX)
+
+def get_startup_stage(startup_stage_i):
+    return STARTUP_STAGES_INDEX_REV[startup_stage_i]
 
 FUNDING_STAGES_INDEX = {
     'Unknown': 0,
@@ -48,10 +55,15 @@ FUNDING_STAGES_INDEX = {
 }
 
 
-def get_funding_stage_id(funding_stage):
+def get_funding_stage_i(funding_stage):
     if funding_stage not in FUNDING_STAGES_INDEX:
         log.error(f'Unknown funding_stage: {funding_stage}')
     return FUNDING_STAGES_INDEX.get(funding_stage, 0)
+
+FUNDING_STAGES_INDEX_REV = build_reverse_index(FUNDING_STAGES_INDEX)
+
+def get_funding_stage(funding_stage_i):
+    return FUNDING_STAGES_INDEX_REV[funding_stage_i]
 
 
 CATEGORY_TO_COLOR = {

@@ -4,10 +4,10 @@ from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from utils import jsonx
 
-from startups_lk._constants import get_funding_stage_id, get_startup_stage_id
+from startups_lk._constants import (URL_DATA_SOURCE, get_funding_stage_i,
+                                    get_startup_stage_i)
 from startups_lk._utils import log
 
-URL = 'https://www.startupsl.lk/masterSearchMainWindow'
 TIME_WAIT = 20
 DATA_FILE = '/tmp/startups_lk.json'
 
@@ -16,7 +16,7 @@ def scrape_and_dump():
     options = Options()
     options.headless = True
     driver = webdriver.Firefox(options=options)
-    driver.get(URL)
+    driver.get(URL_DATA_SOURCE)
     driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
     time.sleep(TIME_WAIT)
 
@@ -68,9 +68,9 @@ def scrape_and_dump():
                 business_registration=business_registration,
                 category=category,
                 startup_stage=startup_stage,
-                startup_stage_i=get_startup_stage_id(startup_stage),
+                startup_stage_i=get_startup_stage_i(startup_stage),
                 funding_stage=funding_stage,
-                funding_stage_i=get_funding_stage_id(funding_stage),
+                funding_stage_i=get_funding_stage_i(funding_stage),
                 founder=founder,
             )
         )
