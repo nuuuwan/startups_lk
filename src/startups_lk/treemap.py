@@ -288,7 +288,7 @@ def draw_treemap(min_startup_stage_i, min_funding_stage_i):
             image_x = x + img_width * i_x
             image_y = y + img_height * i_y + margin_top / 2
             image_file_only = data['image_file_only']
-            img = f'./startups_lk-images/{image_file_only}'
+            img = f'startups_lk-images/{image_file_only}'
             remote_img_url = data['remote_img_url']
 
             if remote_img_url != DEFAULT_REMOTE_IMG_URL:
