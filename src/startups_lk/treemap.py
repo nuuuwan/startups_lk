@@ -288,7 +288,7 @@ def draw_treemap(min_startup_stage_i, min_funding_stage_i):
             image_x = x + img_width * i_x
             image_y = y + img_height * i_y + margin_top / 2
             image_file_only = data['image_file_only']
-            img = f'/tmp/startups_lk-images/{image_file_only}'
+            img = f'startups_lk-images/{image_file_only}'
             remote_img_url = data['remote_img_url']
 
             if remote_img_url != DEFAULT_REMOTE_IMG_URL:
@@ -325,7 +325,7 @@ def draw_treemap(min_startup_stage_i, min_funding_stage_i):
     ).text = '@nuuuwan'
 
     svg_file_only = (
-        f'startups_lk.{min_startup_stage_id}.{min_funding_stage_id}.svg'
+        f'startups_lk.startupscape.{min_startup_stage_id}.{min_funding_stage_id}.svg'
     )
     svg_file = f'/tmp/{svg_file_only}'
 
@@ -333,7 +333,7 @@ def draw_treemap(min_startup_stage_i, min_funding_stage_i):
     filex.write(svg_file, svg_code)
     log.info(f'Wrote SVG to {svg_file}')
 
-    os.system(f'open -a firefox {svg_file}')
+    # os.system(f'open -a firefox {svg_file}')
 
     if BUILD_PNG:
         png_file = svg_file.replace('.svg', '.png')
@@ -356,14 +356,14 @@ def draw_treemap(min_startup_stage_i, min_funding_stage_i):
 
 
 if __name__ == '__main__':
-    draw_treemap(min_startup_stage_i=1, min_funding_stage_i=1)
+    # draw_treemap(min_startup_stage_i=1, min_funding_stage_i=1)
 
-    # for min_startup_stage_i in range(1, 7):
-    #     draw_treemap(
-    #         min_startup_stage_i=min_startup_stage_i, min_funding_stage_i=1
-    #     )
-    #
-    # for min_funding_stage_i in range(1, 9):
-    #     draw_treemap(
-    #         min_startup_stage_i=1, min_funding_stage_i=min_funding_stage_i
-    #     )
+    for min_startup_stage_i in range(1, 7):
+        draw_treemap(
+            min_startup_stage_i=min_startup_stage_i, min_funding_stage_i=1
+        )
+
+    for min_funding_stage_i in range(1, 9):
+        draw_treemap(
+            min_startup_stage_i=1, min_funding_stage_i=min_funding_stage_i
+        )

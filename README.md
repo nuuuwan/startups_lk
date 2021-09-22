@@ -36,3 +36,4 @@
   *  [2021-09-22 04:21PM] Pre-Merge
   *  [2021-09-22 05:16PM] Lint
   *  [2021-09-22 05:29PM] Minor bugs
+  *  [2021-09-22 05:35PM] Changed image file format
