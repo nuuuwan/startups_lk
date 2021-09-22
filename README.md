@@ -22,3 +22,5 @@
   *  [2021-09-22 06:46AM] Added upload_data
   *  [2021-09-22 06:46AM] Add lumascape
   *  [2021-09-22 06:49AM] Add TreeMap - pre
+* [2021-09-22 06:49AM] Add TreeMap
+  *  [2021-09-22 06:49AM] Updated README
