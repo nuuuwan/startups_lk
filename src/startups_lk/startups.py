@@ -2,7 +2,7 @@ import time
 
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
-from utils import filex, jsonx
+from utils import jsonx
 
 from startups_lk._utils import log
 
@@ -81,31 +81,3 @@ def scrape_and_dump():
 
 def load_startups():
     return jsonx.read(DATA_FILE)
-
-
-def build_summary():
-    data_list = load_startups()
-    md_lines = [
-        '# Startups in Sri Lanka',
-        'Source: [https://www.startupsl.lk](https://www.startupsl.lk)',
-    ]
-
-    for data in data_list:
-        name = data['name']
-        description = data['description']
-        data['img']
-        url = data['url']
-        md_lines += [
-            f'## {name}',
-            f'{description}',
-            f'[{url}]({url})',
-        ]
-
-    md_file = '/tmp/README.md'
-    filex.write(md_file, '\n'.join(md_lines))
-    log.info(f'Wrote summary to {md_file}')
-
-
-if __name__ == '__main__':
-    scrape_and_dump()
-    build_summary()
