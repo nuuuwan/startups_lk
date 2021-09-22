@@ -4,6 +4,7 @@ from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from utils import jsonx
 
+from startups_lk._constants import get_funding_stage_id, get_startup_stage_id
 from startups_lk._utils import log
 
 URL = 'https://www.startupsl.lk/masterSearchMainWindow'
@@ -53,7 +54,7 @@ def scrape_and_dump():
 
         business_registration = details.get('Business Registration')[0]
         category = details.get('Startup Catogory')
-        funding_state = details.get('Funding Stage')[0]
+        funding_stage = details.get('Funding Stage')[0]
         startup_stage = details.get('Startup Stage')[0]
         founder = details.get('Founder')
 
@@ -65,9 +66,11 @@ def scrape_and_dump():
                 description=description,
                 url=url,
                 business_registration=business_registration,
-                c=category,
-                funding_state=funding_state,
+                category=category,
                 startup_stage=startup_stage,
+                startup_stage_i=get_startup_stage_id(startup_stage),
+                funding_stage=funding_stage,
+                funding_stage_i=get_funding_stage_id(funding_stage),
                 founder=founder,
             )
         )
@@ -79,5 +82,20 @@ def scrape_and_dump():
     driver.quit()
 
 
-def load_startups():
-    return jsonx.read(DATA_FILE)
+def load_startups(min_funding_stage_i=-1, min_startup_stage_i=-1):
+    data_list = jsonx.read(DATA_FILE)
+    if min_funding_stage_i != -1:
+        data_list = list(
+            filter(
+                lambda data: data['funding_stage_i'] >= min_funding_stage_i,
+                data_list,
+            )
+        )
+    if min_startup_stage_i != -1:
+        data_list = list(
+            filter(
+                lambda data: data['startup_stage_i'] >= min_startup_stage_i,
+                data_list,
+            )
+        )
+    return data_list

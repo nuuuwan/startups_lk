@@ -5,22 +5,25 @@ import squarify
 from utils import filex
 
 from startups_lk._utils import log
+from startups_lk.category_colors import get_category_color
 from startups_lk.startups import load_startups
 
 WIDTH, HEIGHT = 1600, 900
-BORDER_RADIUS = 24
+BORDER_RADIUS = 6
 RECT_PADDING = 6
+STROKE_WIDTH = 2
+FONT_FAMILY = 'Gill Sans'
 
 
 def get_cat_to_data_list():
-    data_list = load_startups()[:60]
+    data_list = load_startups(min_startup_stage_i=3)
     cat_to_data_list = {}
     for data in data_list:
         for cat in data['category']:
             if cat not in cat_to_data_list:
                 cat_to_data_list[cat] = []
             cat_to_data_list[cat].append(data)
-            break  # Only consider first cat
+
     return cat_to_data_list
 
 
@@ -62,6 +65,7 @@ def draw_treemap():
         y = square_info['y'] + RECT_PADDING
         width = square_info['dx'] - RECT_PADDING * 2
         height = square_info['dy'] - RECT_PADDING * 2
+        color = get_category_color(cat)
         ET.SubElement(
             _svg,
             'rect',
@@ -73,7 +77,8 @@ def draw_treemap():
                 'rx': str(BORDER_RADIUS),
                 'ry': str(BORDER_RADIUS),
                 'fill': 'white',
-                'stroke': 'gray',
+                'stroke': color,
+                'stroke-width': str(STROKE_WIDTH),
             },
         )
 
@@ -82,27 +87,27 @@ def draw_treemap():
         header_text = f'{cat} ({n_cat})'
         font_size = min(height / 10, 144, 1.5 * width / len(header_text))
         margin_top = font_size * 1.2
+
         ET.SubElement(
             _svg,
             'text',
             {
                 'x': str(x + width / 2),
                 'y': str(y + margin_top),
-                'fill': 'red',
+                'fill': color,
                 'text-anchor': 'middle',
-                'font-family': 'Futura',
+                'font-family': FONT_FAMILY,
                 'font-size': str(font_size),
             },
         ).text = header_text
-
 
         df = math.sqrt(width * height / n_cat)
         n_cols = math.ceil(width / df)
         n_rows = math.ceil(n_cat / n_cols)
 
         img_width = width / n_cols
-        img_height = height / n_rows
-        PADDING = max(img_width, img_height) * 0.05
+        img_height = (height - margin_top) / n_rows
+        PADDING = 5
 
         i_x, i_y = 0, 0
         for i_data, data in enumerate(cat_data_list):
@@ -117,11 +122,9 @@ def draw_treemap():
                     'x': str(image_x + PADDING),
                     'y': str(image_y + PADDING + margin_top),
                     'width': str(img_width - PADDING * 2),
-                    'height': str(img_height - PADDING * 2 - margin_top),
-                    'fill': 'rgba(255, 0, 0, 0.5)'
+                    'height': str(img_height - PADDING * 2),
                 },
             )
-
             i_x += 1
             if i_x >= n_cols:
                 i_x = 0
