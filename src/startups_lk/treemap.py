@@ -2,7 +2,6 @@ import math
 import ssl
 import xml.etree.ElementTree as ET
 
-import cairosvg
 import squarify
 from utils import filex
 
@@ -31,7 +30,7 @@ def get_cat_to_data_list(min_startup_stage_i, min_funding_stage_i):
     data_list = load_startups(min_startup_stage_i, min_funding_stage_i)
     cat_to_data_list = {}
     for data in data_list:
-        for cat in data['category']:
+        for cat in data['category_list']:
             if cat not in cat_to_data_list:
                 cat_to_data_list[cat] = []
             cat_to_data_list[cat].append(data)
@@ -60,7 +59,7 @@ def get_cat_to_n(min_startup_stage_i, min_funding_stage_i):
 def get_filter_details(min_startup_stage_i, min_funding_stage_i):
     min_startup_stage = get_startup_stage(min_startup_stage_i)
     min_funding_stage = get_funding_stage(min_funding_stage_i)
-    return f'{min_startup_stage} or beyond & {min_funding_stage} or beyond'
+    return f'{min_startup_stage}+ & {min_funding_stage}+'
 
 
 def draw_treemap(min_startup_stage_i, min_funding_stage_i):
@@ -201,7 +200,9 @@ def draw_treemap(min_startup_stage_i, min_funding_stage_i):
         for i_data, data in enumerate(cat_data_list):
             image_x = x + img_width * i_x
             image_y = y + img_height * i_y
-            img = data['img']
+            image_file_only = data['image_file_only']
+            img = f'/tmp/startups_lk-images/{image_file_only}'
+            # img = f'http://localhost:8000/{image_file_only}'
             ET.SubElement(
                 _svg,
                 'image',
@@ -237,11 +238,6 @@ def draw_treemap(min_startup_stage_i, min_funding_stage_i):
     svg_code = ET.tostring(_svg).decode()
     filex.write(svg_file, svg_code)
     log.info(f'Wrote SVG to {svg_file}')
-
-    if BUILD_PNG:
-        png_file = '/tmp/startups_lk.png'
-        cairosvg.svg2png(bytestring=svg_code, write_to=png_file)
-        log.info(f'Wrote PNG to {png_file}')
 
 
 if __name__ == '__main__':

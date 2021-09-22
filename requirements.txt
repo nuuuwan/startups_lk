@@ -1,6 +1,5 @@
 # Auto Generated
 bs4
-cairosvg
 pytest
 selenium
 squarify
