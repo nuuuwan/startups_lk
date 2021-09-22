@@ -14,7 +14,6 @@ def build_summary():
     for data in data_list:
         name = data['name']
         description = data['description']
-        data['img']
         url = data['url']
         md_lines += [
             f'## {name}',
