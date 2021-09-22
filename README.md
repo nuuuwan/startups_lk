@@ -26,3 +26,4 @@
   *  [2021-09-22 07:06AM] Added get_cat_to_data_list and get_cat_to_n
   *  [2021-09-22 07:10AM] draw_treemap Stub
   *  [2021-09-22 07:50AM] Basic treemap
+  *  [2021-09-22 08:22AM] Basic Tree Map Done
