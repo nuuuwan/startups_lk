@@ -1,10 +1,13 @@
 import math
+import ssl
 import xml.etree.ElementTree as ET
 
+import cairosvg
 import squarify
 from utils import filex
 
-from startups_lk._constants import URL_DATA_SOURCE_DOMAIN, get_startup_stage, get_funding_stage
+from startups_lk._constants import (URL_DATA_SOURCE_DOMAIN, get_funding_stage,
+                                    get_startup_stage)
 from startups_lk._utils import log
 from startups_lk.category_colors import get_category_color
 from startups_lk.startups import load_startups
@@ -18,6 +21,10 @@ FOOTER_HEIGHT = 72
 PADDING_OUTER_X = 24
 PADDING = 5
 FONT_FAMILY = 'Futura'
+BUILD_PNG = True
+
+
+ssl._create_default_https_context = ssl._create_unverified_context
 
 
 def get_cat_to_data_list(min_startup_stage_i, min_funding_stage_i):
@@ -54,6 +61,7 @@ def get_filter_details(min_startup_stage_i, min_funding_stage_i):
     min_startup_stage = get_startup_stage(min_startup_stage_i)
     min_funding_stage = get_funding_stage(min_funding_stage_i)
     return f'{min_startup_stage} or beyond & {min_funding_stage} or beyond'
+
 
 def draw_treemap(min_startup_stage_i, min_funding_stage_i):
     cat_to_data_list = get_cat_to_data_list(
@@ -95,7 +103,7 @@ def draw_treemap(min_startup_stage_i, min_funding_stage_i):
             'height': str(HEIGHT - PADDING),
             'rx': str(BORDER_RADIUS),
             'ry': str(BORDER_RADIUS),
-            'fill': 'rgba(0, 0, 0)',
+            'fill': 'black',
             'fill-opacity': str(0.05),
             'stroke': 'lightgray',
             'stroke-width': str(STROKE_WIDTH),
@@ -226,8 +234,14 @@ def draw_treemap(min_startup_stage_i, min_funding_stage_i):
     ).text = '@nuuuwan'
 
     svg_file = '/tmp/startups_lk.svg'
-    filex.write(svg_file, ET.tostring(_svg).decode())
+    svg_code = ET.tostring(_svg).decode()
+    filex.write(svg_file, svg_code)
     log.info(f'Wrote SVG to {svg_file}')
+
+    if BUILD_PNG:
+        png_file = '/tmp/startups_lk.png'
+        cairosvg.svg2png(bytestring=svg_code, write_to=png_file)
+        log.info(f'Wrote PNG to {png_file}')
 
 
 if __name__ == '__main__':

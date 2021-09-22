@@ -1,0 +1,6 @@
+--2021-09-22 13:22:58--  https://www.startupsl.lk/CompanyLogos/475-Logo.png
+Resolving www.startupsl.lk (www.startupsl.lk)... 43.224.126.16
+Connecting to www.startupsl.lk (www.startupsl.lk)|43.224.126.16|:443... connected.
+ERROR: cannot verify www.startupsl.lk's certificate, issued by ‘CN=R3,O=Let's Encrypt,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.startupsl.lk insecurely, use `--no-check-certificate'.
