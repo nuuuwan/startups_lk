@@ -31,7 +31,7 @@ setuptools.setup(
         'pytest',
         'selenium',
         'squarify',
-        'tweepy',    
+        'tweepy',
         'utils-nuuuwan',
     ],
 )

@@ -7,9 +7,6 @@ import xml.etree.ElementTree as ET
 import squarify
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
-
-from PIL import Image
-
 from utils import dt, filex
 
 from startups_lk._constants import (URL_DATA_SOURCE_DOMAIN, get_funding_stage,
@@ -18,7 +15,9 @@ from startups_lk._utils import log
 from startups_lk.category_colors import get_category_color
 from startups_lk.startups import load_startups
 
-WIDTH, HEIGHT = 1440, 810
+WIDTH = 2000
+ASPECT_RATIO = 9 / 16
+HEIGHT = WIDTH * ASPECT_RATIO
 BORDER_RADIUS = 6
 RECT_PADDING = 9
 STROKE_WIDTH = 3
@@ -27,7 +26,7 @@ FOOTER_HEIGHT = 144
 PADDING_OUTER_X = 48
 PADDING = 1
 FONT_FAMILY = 'Futura'
-BUILD_PNG = True
+BUILD_PNG = False
 DEFAULT_REMOTE_IMG_URL = (
     'https://www.startupsl.lk/CompanyLogos/deault-logo.jpg'
 )
@@ -40,7 +39,15 @@ OTHER_CAT_P_LIMIT = 0.1
 
 
 def get_cat_to_data_list(min_startup_stage_i, min_funding_stage_i):
-    data_list = load_startups(min_startup_stage_i, min_funding_stage_i)
+    data_list0 = load_startups(min_startup_stage_i, min_funding_stage_i)
+    # data_list = []
+    # for data in data_list0:
+    #     category_key = ';'.join(data['category_list'])
+    #     if 'e-commerce' not in category_key:
+    #         continue
+    #     data_list.append(data)
+    data_list = data_list0
+
     n_data_list = len(data_list)
     cat_to_data_map = {}
     for data in data_list:
@@ -154,7 +161,7 @@ def draw_treemap(min_startup_stage_i, min_funding_stage_i):
             'font-family': FONT_FAMILY,
             'font-size': str(35),
         },
-    ).text = 'Startups in Sri Lanka'
+    ).text = 'Startups in Sri Lanka (2021 September)'
 
     min_startup_stage = get_startup_stage(min_startup_stage_i)
     min_funding_stage = get_funding_stage(min_funding_stage_i)
@@ -234,7 +241,7 @@ def draw_treemap(min_startup_stage_i, min_funding_stage_i):
         cat_data_list = cat_to_data_map[cat]
         n_cat = len(cat_data_list)
         header_text = f'{cat} ({n_cat})'
-        font_size = min(height / 10, 144, 1.5 * width / len(header_text))
+        font_size = min(height / 10, 72, 1 * width / len(header_text))
         margin_top = font_size * 1.2
 
         BACKGROUND_RECT_P = 0.1
@@ -309,7 +316,7 @@ def draw_treemap(min_startup_stage_i, min_funding_stage_i):
             'x': str(WIDTH / 2),
             'y': str(HEIGHT / 2),
             'fill': 'black',
-            'fill-opacity': str(0.02),
+            'fill-opacity': str(0.05),
             'text-anchor': 'middle',
             'alignment-baseline': 'hanging',
             'font-family': FONT_FAMILY,
@@ -325,6 +332,8 @@ def draw_treemap(min_startup_stage_i, min_funding_stage_i):
     svg_code = ET.tostring(_html).decode()
     filex.write(svg_file, svg_code)
     log.info(f'Wrote SVG to {svg_file}')
+
+    os.system(f'open -a firefox {svg_file}')
 
     if BUILD_PNG:
         png_file = svg_file.replace('.svg', '.png')
@@ -345,18 +354,16 @@ def draw_treemap(min_startup_stage_i, min_funding_stage_i):
         # im_cropped = im.crop((0, 0, WIDTH * P, HEIGHT * P))
         # im_cropped.save(png_file)
 
-        os.system(f'open {png_file}')
-
 
 if __name__ == '__main__':
-    # draw_treemap(min_startup_stage_i=4, min_funding_stage_i=1)
+    draw_treemap(min_startup_stage_i=1, min_funding_stage_i=1)
 
-    for min_startup_stage_i in range(1, 7):
-        draw_treemap(
-            min_startup_stage_i=min_startup_stage_i, min_funding_stage_i=1
-        )
-
-    for min_funding_stage_i in range(1, 9):
-        draw_treemap(
-            min_startup_stage_i=1, min_funding_stage_i=min_funding_stage_i
-        )
+    # for min_startup_stage_i in range(1, 7):
+    #     draw_treemap(
+    #         min_startup_stage_i=min_startup_stage_i, min_funding_stage_i=1
+    #     )
+    #
+    # for min_funding_stage_i in range(1, 9):
+    #     draw_treemap(
+    #         min_startup_stage_i=1, min_funding_stage_i=min_funding_stage_i
+    #     )
