@@ -9,7 +9,7 @@ from startups_lk.startups import load_startups
 
 WIDTH, HEIGHT = 1600, 900
 BORDER_RADIUS = 24
-RECT_PADDING = 24
+RECT_PADDING = 6
 
 
 def get_cat_to_data_list():
@@ -102,7 +102,7 @@ def draw_treemap():
 
         img_width = width / n_cols
         img_height = height / n_rows
-        PADDING = max(img_width, img_height) * 0.1
+        PADDING = max(img_width, img_height) * 0.05
 
         i_x, i_y = 0, 0
         for i_data, data in enumerate(cat_data_list):
