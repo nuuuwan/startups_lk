@@ -27,10 +27,11 @@ setuptools.setup(
     python_requires='>=3.6',
     install_requires=[
         'bs4',
+        'Pillow',
         'pytest',
         'selenium',
         'squarify',
-        'tweepy',
+        'tweepy',    
         'utils-nuuuwan',
     ],
 )
