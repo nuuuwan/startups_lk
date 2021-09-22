@@ -1,23 +1,8 @@
-# import squarify
-#
-# x = 0.
-# y = 0.
-# width = 700.
-# height = 433.
-#
-# values = [500, 433, 78, 25, 25, 7]
-# values.sort(reverse=True)
-#
-#
-# values = squarify.normalize_sizes(values, width, height)
-#
-# rects = squarify.squarify(values, x, y, width, height)
-#
-# print(rects)
-#
-#
+import squarify
 
 from startups_lk.startups import load_startups
+
+WIDTH, HEIGHT = 1600, 900
 
 
 def get_cat_to_data_list():
@@ -47,5 +32,15 @@ def get_cat_to_n():
     return cat_to_n
 
 
+def draw_treemap():
+    cat_to_n = get_cat_to_n()
+    values = list(cat_to_n.values())
+
+    values = squarify.normalize_sizes(values, WIDTH, HEIGHT)
+    X0, Y0 = 0, 0
+    rects = squarify.squarify(values, X0, Y0, WIDTH, HEIGHT)
+    print(rects)
+
+
 if __name__ == '__main__':
-    # draw_treemap()
+    draw_treemap()
