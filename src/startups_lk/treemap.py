@@ -41,12 +41,6 @@ OTHER_CAT_P_LIMIT = 0.1
 
 def get_cat_to_data_list(min_startup_stage_i, min_funding_stage_i):
     data_list0 = startups.load(min_startup_stage_i, min_funding_stage_i)
-    # data_list = []
-    # for data in data_list0:
-    #     category_key = ';'.join(data['category_list'])
-    #     if 'e-commerce' not in category_key:
-    #         continue
-    #     data_list.append(data)
     data_list = data_list0
 
     n_data_list = len(data_list)
