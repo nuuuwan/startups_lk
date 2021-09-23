@@ -47,3 +47,4 @@
   *  [2021-09-23 09:38AM] Added images
   *  [2021-09-23 09:45AM] Added image and tagline
   *  [2021-09-23 09:47AM] Updated Biz Reg Str
+  *  [2021-09-23 09:47AM] Added Category List

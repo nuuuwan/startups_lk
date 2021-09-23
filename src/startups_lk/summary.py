@@ -34,10 +34,14 @@ def build_startup_summary(data):
     )
     business_registration_ut = data['business_registration_ut']
     business_registration_str = timex.format_time('%B %d, %Y', business_registration_ut)
+
+    category_list = data['category_str']
+    category_str = ' · '.join(category_list)
+
     return [
         f'## {name}',
         f'*"{tagline}"*',
-        f'**"{category_str}"**',
+        f'**{category_str}**',
         f'<img src="{img_url}" alt="{name}" style="height:100px;" />',
         f'{description}',
         f'Business Registration: {business_registration_str}',
