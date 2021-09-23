@@ -40,13 +40,37 @@ def build_startup_summary(data):
     category_list = data['category_list']
     category_str = ' · '.join(category_list)
 
+    founder_info = data['founder_info']
+    founder_info_str_list = []
+    email = founder_info.get('email')
+    name = founder_info.get('name')
+    phone = founder_info.get('phone')
+    if email:
+        founder_info_str_list.append(f'[{email}](mailto:{email})')
+    if phone:
+        founder_info_str_list.append(f'[{phone}](tel:{phone})')
+    if name:
+        name_str = name.replace(' ', '+')
+        name_url = (
+            'https://www.linkedin.com/search/results/people/?'
+            + f'keywords={name_str}'
+        )
+        founder_info_str_list.append(f'[{name}](mailto:{name_url})')
+    founder_info_str = ' · '.join(founder_info_str_list)
+
+    startup_stage = data['startup_stage']
+    funding_stage = data['funding_stage']
+    details_str = ' · '.join([startup_stage, funding_stage])
+
     return [
         f'## {name}',
         f'*"{tagline}"*',
+        f'Business Registration: **{business_registration_str}**',
         f'**{category_str}**',
         f'<img src="{img_url}" alt="{name}" style="height:100px;" />',
         f'{description}',
-        f'Business Registration: {business_registration_str}',
+        f'{details_str}',
+        f'{founder_info_str}',
         f'[{url}]({url})',
     ]
 
