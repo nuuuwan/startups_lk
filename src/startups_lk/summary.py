@@ -86,7 +86,7 @@ def build_summary():
         f'*Generated: {time_str}*',
     ]
 
-    for data in data_list[:10]:
+    for data in data_list:
         md_lines += build_startup_summary(data)
 
     md_file = '/tmp/README.md'
