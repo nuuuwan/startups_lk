@@ -32,11 +32,15 @@ def build_startup_summary(data):
     img_url = os.path.join(
         REMOTE_DATA_DIR, 'startups_lk-images', data['image_file_only']
     )
+    business_registration_ut = data['business_registration_ut']
+    business_registration_str = timex.format_time('%B %d, %Y', business_registration_ut)
     return [
         f'## {name}',
         f'*"{tagline}"*',
+        f'**"{category_str}"**',
         f'<img src="{img_url}" alt="{name}" style="height:100px;" />',
         f'{description}',
+        f'Business Registration: {business_registration_str}',
         f'[{url}]({url})',
     ]
 
