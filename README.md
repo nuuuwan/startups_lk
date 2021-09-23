@@ -58,3 +58,4 @@
   *  [2021-09-23 10:04AM] Removed comments from upload data
   *  [2021-09-23 10:10AM] Done
   *  [2021-09-23 10:13AM] Removed 10 limit from summary
+  *  [2021-09-23 10:15AM] Fixed name URL bug

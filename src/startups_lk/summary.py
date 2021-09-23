@@ -55,7 +55,7 @@ def build_startup_summary(data):
             'https://www.linkedin.com/search/results/people/?'
             + f'keywords={name_str}'
         )
-        founder_info_str_list.append(f'[{founder_name}](mailto:{name_url})')
+        founder_info_str_list.append(f'[{founder_name}]({name_url})')
     founder_info_str = ' · '.join(founder_info_str_list)
 
     startup_stage = data['startup_stage']
