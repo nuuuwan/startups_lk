@@ -34,10 +34,10 @@ def build_startup_summary(data):
     )
     business_registration_ut = (int)(data['business_registration_ut'])
     business_registration_str = timex.format_time(
-        '%B %d, %Y', business_registration_ut
+        business_registration_ut, '%B %d, %Y'
     )
 
-    category_list = data['category_str']
+    category_list = data['category_list']
     category_str = ' · '.join(category_list)
 
     return [
