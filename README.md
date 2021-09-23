@@ -45,3 +45,4 @@
   *  [2021-09-23 09:34AM] Added time
   *  [2021-09-23 09:35AM] Lint
   *  [2021-09-23 09:38AM] Added images
+  *  [2021-09-23 09:45AM] Added image and tagline

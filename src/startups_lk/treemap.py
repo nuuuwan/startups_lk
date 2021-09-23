@@ -9,8 +9,8 @@ from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from utils import dt, filex
 
-from startups_lk._constants import (URL_DATA_SOURCE_DOMAIN, get_funding_stage,
-                                    get_startup_stage, REMOTE_DATA_DIR)
+from startups_lk._constants import (REMOTE_DATA_DIR, URL_DATA_SOURCE_DOMAIN,
+                                    get_funding_stage, get_startup_stage)
 from startups_lk._utils import log
 from startups_lk.category_colors import get_category_color
 from startups_lk.startups import load_startups
