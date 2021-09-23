@@ -33,7 +33,9 @@ def build_startup_summary(data):
         REMOTE_DATA_DIR, 'startups_lk-images', data['image_file_only']
     )
     business_registration_ut = (int)(data['business_registration_ut'])
-    business_registration_str = timex.format_time('%B %d, %Y', business_registration_ut)
+    business_registration_str = timex.format_time(
+        '%B %d, %Y', business_registration_ut
+    )
 
     category_list = data['category_str']
     category_str = ' · '.join(category_list)
