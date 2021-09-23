@@ -294,7 +294,6 @@ def draw_treemap(min_startup_stage_i, min_funding_stage_i):
             else:
                 img = f'/tmp/startups_lk-images/{image_file_only}'
 
-
             ET.SubElement(
                 _svg,
                 'image',
@@ -328,7 +327,8 @@ def draw_treemap(min_startup_stage_i, min_funding_stage_i):
     ).text = '@nuuuwan'
 
     svg_file_only = (
-        f'startups_lk.startupscape.{min_startup_stage_id}.{min_funding_stage_id}.svg'
+        'startups_lk.startupscape.'
+        + f'{min_startup_stage_id}.{min_funding_stage_id}.svg'
     )
     svg_file = f'/tmp/{svg_file_only}'
 

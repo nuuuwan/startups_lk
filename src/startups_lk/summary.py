@@ -1,4 +1,4 @@
-from utils import filex
+from utils import filex, timex
 
 from startups_lk._utils import log
 from startups_lk.startups import load_startups
@@ -13,6 +13,7 @@ def build_startup_summary(data):
         f'{description}',
         f'[{url}]({url})',
     ]
+
 
 def build_summary():
     data_list = load_startups()
