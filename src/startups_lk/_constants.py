@@ -8,7 +8,7 @@ CACHE_TIMEOUT = 3600
 URL_DATA_SOURCE = 'https://www.startupsl.lk/masterSearchMainWindow'
 URL_DATA_SOURCE_DOMAIN = 'www.startupsl.lk'
 DIR_IMAGE = '/tmp/startups_lk-images'
-
+REMOTE_DATA_DIR = 'https://raw.githubusercontent.com/nuuuwan/startups_lk/data'
 
 def build_reverse_index(index):
     return dict(

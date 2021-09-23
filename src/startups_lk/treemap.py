@@ -10,7 +10,7 @@ from selenium.webdriver.firefox.options import Options
 from utils import dt, filex
 
 from startups_lk._constants import (URL_DATA_SOURCE_DOMAIN, get_funding_stage,
-                                    get_startup_stage)
+                                    get_startup_stage, REMOTE_DATA_DIR)
 from startups_lk._utils import log
 from startups_lk.category_colors import get_category_color
 from startups_lk.startups import load_startups
@@ -31,7 +31,7 @@ DEFAULT_REMOTE_IMG_URL = (
     'https://www.startupsl.lk/CompanyLogos/deault-logo.jpg'
 )
 TIME_WAIT = 4
-REMOTE_DATA_DIR = 'https://raw.githubusercontent.com/nuuuwan/startups_lk/data'
+
 USE_REMOTE = False
 
 ssl._create_default_https_context = ssl._create_unverified_context
