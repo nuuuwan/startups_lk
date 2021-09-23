@@ -4,10 +4,11 @@ import time
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
-from utils import dt, filex, jsonx, timex
+from utils import dt, filex, jsonx, timex, www
 
-from startups_lk._constants import (DIR_IMAGE, URL_DATA_SOURCE,
-                                    get_funding_stage_i, get_startup_stage_i)
+from startups_lk._constants import (DIR_IMAGE, REMOTE_DATA_DIR,
+                                    URL_DATA_SOURCE, get_funding_stage_i,
+                                    get_startup_stage_i)
 from startups_lk._utils import log
 
 TIME_WAIT = 20
@@ -130,16 +131,28 @@ def download_images():
     data_list = jsonx.read(DATA_FILE)
     for data in data_list:
         image_file_only = data['image_file_only']
-        remote_img_url = data['remote_img_url']
         image_file = os.path.join(
             DIR_IMAGE,
             image_file_only,
         )
-        if not os.path.exists(image_file):
-            os.system(
-                'wget --no-check-certificate '
-                + f'-O "{image_file}" "{remote_img_url}"'
-            )
+        if os.path.exists(image_file):
+            log.warning(f'{image_file} exists')
+            continue
+        github_image_url = os.path.join(
+            REMOTE_DATA_DIR,
+            'startups_lk-images',
+            image_file_only,
+        )
+        if www.exists(github_image_url):
+            log.warning(f'{github_image_url} exists')
+            continue
+        data['image_file_only']
+        remote_img_url = data['remote_img_url']
+
+        os.system(
+            'wget --no-check-certificate '
+            + f'-O "{image_file}" "{remote_img_url}"'
+        )
 
 
 def load_startups(min_funding_stage_i=-1, min_startup_stage_i=-1):
