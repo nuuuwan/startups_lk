@@ -60,11 +60,14 @@ def build_startup_summary(data):
 
     startup_stage = data['startup_stage']
     funding_stage = data['funding_stage']
-    details_str = ' · '.join([f'**{startup_stage}**', f'Funding **{funding_stage}**'])
+    details_str = ' · '.join(
+        [f'**{startup_stage}**', f'Funding **{funding_stage}**']
+    )
 
     return [
         f'## {name}',
-        f'<img src="{img_url}" alt="{name}" style="height:100px; text-align:left;" />',        
+        f'<img src="{img_url}" alt="{name}" '
+        + 'style="height:100px; text-align:left;" />',
         f'*"{tagline}"*',
         f'Business Registration: **{business_registration_str}**',
         f'**{category_str}**',
