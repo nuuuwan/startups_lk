@@ -89,7 +89,7 @@ CATEGORY_TO_COLOR = {
     'Entertainment': 'pink',
     'Events': 'pink',
     'Fashion': 'magenta',
-    'Financial/Fintech': 'gold',
+    'Financial/Fintech': 'maroon',
     'Food & Beverages': 'green',
     'Green Technology': 'darkgreen',
     'Human Resource': 'pink',

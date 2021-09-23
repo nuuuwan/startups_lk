@@ -32,7 +32,7 @@ DEFAULT_REMOTE_IMG_URL = (
 )
 TIME_WAIT = 4
 REMOTE_DATA_DIR = 'https://raw.githubusercontent.com/nuuuwan/startups_lk/data'
-USE_REMOTE = True
+USE_REMOTE = False
 
 ssl._create_default_https_context = ssl._create_unverified_context
 OTHER_CAT_N_LIMIT = 10
@@ -336,7 +336,7 @@ def draw_treemap(min_startup_stage_i, min_funding_stage_i):
     filex.write(svg_file, svg_code)
     log.info(f'Wrote SVG to {svg_file}')
 
-    # os.system(f'open -a firefox {svg_file}')
+    os.system(f'open -a firefox {svg_file}')
 
     if BUILD_PNG:
         png_file = svg_file.replace('.svg', '.png')
@@ -359,14 +359,14 @@ def draw_treemap(min_startup_stage_i, min_funding_stage_i):
 
 
 if __name__ == '__main__':
-    # draw_treemap(min_startup_stage_i=1, min_funding_stage_i=1)
+    draw_treemap(min_startup_stage_i=1, min_funding_stage_i=1)
 
-    for min_startup_stage_i in range(1, 7):
-        draw_treemap(
-            min_startup_stage_i=min_startup_stage_i, min_funding_stage_i=1
-        )
-
-    for min_funding_stage_i in range(1, 9):
-        draw_treemap(
-            min_startup_stage_i=1, min_funding_stage_i=min_funding_stage_i
-        )
+    # for min_startup_stage_i in range(1, 7):
+    #     draw_treemap(
+    #         min_startup_stage_i=min_startup_stage_i, min_funding_stage_i=1
+    #     )
+    #
+    # for min_funding_stage_i in range(1, 9):
+    #     draw_treemap(
+    #         min_startup_stage_i=1, min_funding_stage_i=min_funding_stage_i
+    #     )
