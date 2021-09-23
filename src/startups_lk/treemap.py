@@ -9,11 +9,11 @@ from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from utils import dt, filex
 
+from startups_lk import startups
 from startups_lk._constants import (REMOTE_DATA_DIR, URL_DATA_SOURCE_DOMAIN,
-                                    get_funding_stage, get_startup_stage)
+                                    get_category_color, get_funding_stage,
+                                    get_startup_stage)
 from startups_lk._utils import log
-from startups_lk.category_colors import get_category_color
-from startups_lk.startups import load_startups
 
 WIDTH = 2000
 ASPECT_RATIO = 9 / 16
@@ -40,7 +40,7 @@ OTHER_CAT_P_LIMIT = 0.1
 
 
 def get_cat_to_data_list(min_startup_stage_i, min_funding_stage_i):
-    data_list0 = load_startups(min_startup_stage_i, min_funding_stage_i)
+    data_list0 = startups.load(min_startup_stage_i, min_funding_stage_i)
     # data_list = []
     # for data in data_list0:
     #     category_key = ';'.join(data['category_list'])
@@ -327,7 +327,7 @@ def draw_treemap(min_startup_stage_i, min_funding_stage_i):
     ).text = '@nuuuwan'
 
     svg_file_only = (
-        'startups_lk.startupscape.'
+        'startups_lk.scrapecape.'
         + f'{min_startup_stage_id}.{min_funding_stage_id}.svg'
     )
     svg_file = f'/tmp/{svg_file_only}'

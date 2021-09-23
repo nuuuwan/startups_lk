@@ -10,6 +10,9 @@ URL_DATA_SOURCE_DOMAIN = 'www.startupsl.lk'
 DIR_IMAGE = '/tmp/startups_lk-images'
 REMOTE_DATA_DIR = 'https://raw.githubusercontent.com/nuuuwan/startups_lk/data'
 
+HTML_FILE = '/tmp/startups_lk.html'
+DATA_FILE = '/tmp/startups_lk.json'
+
 
 def build_reverse_index(index):
     return dict(
@@ -118,3 +121,12 @@ CATEGORY_TO_COLOR = {
     'Travel & Tourism': 'darkgreen',
     'UI / UX': 'black',
 }
+
+
+def get_category_color(cat):
+    if cat not in CATEGORY_TO_COLOR:
+        color = 'gray'
+        CATEGORY_TO_COLOR[cat] = color
+        print(CATEGORY_TO_COLOR)
+
+    return CATEGORY_TO_COLOR[cat]

@@ -2,9 +2,10 @@ import os
 
 from utils import filex, timex
 
+from startups_lk import startups
 from startups_lk._constants import REMOTE_DATA_DIR
 from startups_lk._utils import log
-from startups_lk.startups import load_startups
+
 
 def build_startup_summary(data):
     name = data['name']
@@ -60,7 +61,7 @@ def build_startup_summary(data):
 
 
 def build_summary():
-    data_list = load_startups()
+    data_list = startups.load()
     time_str = timex.format_time(timex.get_unixtime(), '%B %d, %Y')
     md_lines = [
         '# Startups in Sri Lanka',
