@@ -2,7 +2,23 @@
 
 Source: [https://www.startupsl.lk](https://www.startupsl.lk)
 
-*Generated: September 23, 2021*
+*Generated: November 08, 2021*
+
+## 12moon
+
+<img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.12moon.png" alt="12moon" style="height:100px; text-align:left;" />
+
+*"Strategic Digital Solutions"*
+
+Business Registration: **February 15, 2019**
+
+**e-commerce · Digital Marketing · Mobile Application**
+
+**Profit** · Funding **Seed**
+
+12moon is a web design company that focuses on creating beautiful, conversion base websites.
+
+Contact: [https://12moon.lk](https://12moon.lk) · [tharindunshal@gmail.com](mailto:tharindunshal@gmail.com) · [0774892460](tel:0774892460) · [Tharindu Nishal Perera](https://www.linkedin.com/search/results/people/?keywords=Tharindu+Nishal+Perera)
 
 ## 360 Digital Solutions (PVT) LTD
 
@@ -24,9 +40,9 @@ Contact: [https://360digital.lk/](https://360digital.lk/) · [hello@360digital.l
 
 <img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.360-labs.png" alt="360 Labs" style="height:100px; text-align:left;" />
 
-*"Think > Plan > Create"*
+*"The creative platform for every innovators"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Educational/ Edutech · Design & Print · IT Services**
 
@@ -46,7 +62,7 @@ Business Registration: **June 15, 2019**
 
 **e-commerce · UI / UX · Robotic Process Automation (RPA)**
 
-**Ideation** · Funding **Seed**
+**Traction** · Funding **Seed**
 
 365 Ventures is a company that provide ultimate e-Commerce solutions to society.
 
@@ -74,7 +90,7 @@ Contact: [https://3axislabs.com](https://3axislabs.com) · [prasanth@3axislabs.c
 
 *"We Connect, Care & Comfort"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Products · Mobile Application · UI / UX**
 
@@ -106,7 +122,7 @@ Contact: [www.atlabslanka.com](www.atlabslanka.com) · [anuruddha@atlabslanka.co
 
 *"Heal the Crop from the Top"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Agricultural/ Agritech · Internet of Things · Artificial Intelligence**
 
@@ -114,7 +130,23 @@ Business Registration: **January 01, 1970**
 
 AgXspot provides Artificial Intelligence based drone solution for Precision Agriculture.
 
-Contact: [http://agxspot.com/](http://agxspot.com/) · [ck.pirunthan@gmail.com](mailto:ck.pirunthan@gmail.com) · [0776695181](tel:0776695181) · [Pirunthan Keerthinathan](https://www.linkedin.com/search/results/people/?keywords=Pirunthan+Keerthinathan)
+Contact: [https://agxone.lk/](https://agxone.lk/) · [ck.pirunthan@gmail.com](mailto:ck.pirunthan@gmail.com) · [0776695181](tel:0776695181) · [Pirunthan Keerthinathan](https://www.linkedin.com/search/results/people/?keywords=Pirunthan+Keerthinathan)
+
+## Aadhira Digitalz
+
+<img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.aadhira-digitalz.png" alt="Aadhira Digitalz" style="height:100px; text-align:left;" />
+
+*"Digitalizing your future"*
+
+Business Registration: **July 02, 2021**
+
+**IT Services · Digital Marketing · e-commerce**
+
+**Traction** · Funding **Pre-seed**
+
+https://www.aadhira.lk
+
+Contact: [https://www.aadhira.lk](https://www.aadhira.lk) · [thanujan@aadhira.lk](mailto:thanujan@aadhira.lk) · [+94777707358](https://www.linkedin.com/search/results/people/?keywords=+94777707358)
 
 ## Aasa IT Solutions
 
@@ -138,7 +170,7 @@ Contact: [http://aasait.com](http://aasait.com) · [sumith@aasait.com](mailto:su
 
 *"INNOVATE. CREATE. EXECUTE."*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Products · Mobile Application**
 
@@ -244,13 +276,29 @@ We build amazing websites and robust software applications. Based in Colombo, Sr
 
 Contact: [https://www.adlux.asia](https://www.adlux.asia) · [vipula@adlux.asia](mailto:vipula@adlux.asia) · [0777079697](tel:0777079697) · [Vipula S Anandapiya](https://www.linkedin.com/search/results/people/?keywords=Vipula+S+Anandapiya)
 
+## Agaram.lk
+
+<img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.agaram-lk.png" alt="Agaram.lk" style="height:100px; text-align:left;" />
+
+*"Keep your dreams alive"*
+
+Business Registration: **July 02, 2021**
+
+**Educational/ Edutech · Social Innovation · e-commerce**
+
+**Traction** · Funding **Pre-seed**
+
+https://www.agaram.lk
+
+Contact: [https://www.agaram.lk](https://www.agaram.lk) · [thanujan@agaram.lk](mailto:thanujan@agaram.lk) · [+94777707358](https://www.linkedin.com/search/results/people/?keywords=+94777707358)
+
 ## AgGen Technologies
 
 <img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.aggen-technologies.png" alt="AgGen Technologies" style="height:100px; text-align:left;" />
 
 *"Combining the traditional farming approach with modern agricultural technologies."*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Agricultural/ Agritech · Green Technology · Digital Marketing**
 
@@ -298,7 +346,7 @@ Contact: [http://www.agrithmics.lk/](http://www.agrithmics.lk/) · [prashanth@ag
 
 *"Progress with Ai"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Artificial Intelligence · Machine Learning · Internet of Things**
 
@@ -314,7 +362,7 @@ Contact: [https://aivision.asia/](https://aivision.asia/) · [t.theekshana.w@gma
 
 *"Antivirus software, Telecom"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Services · Retail · Computer Hardware**
 
@@ -346,7 +394,7 @@ Contact: [https://akubooks.com/](https://akubooks.com/) · [latheep@gmail.com](m
 
 *"painless education"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Educational/ Edutech · Artificial Intelligence · Mobile Application**
 
@@ -474,7 +522,7 @@ Contact: [https://anankeiot.com/](https://anankeiot.com/) · [keerthi@effectives
 
 *"Start Sharing"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Events · Travel & Tourism**
 
@@ -522,7 +570,7 @@ Contact: [https://nav-project-support-nps.ueniweb.com/#bob](https://nav-project-
 
 *"Smart Software ; Smarter World."*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Services · UI / UX · Mobile Application**
 
@@ -531,22 +579,6 @@ Business Registration: **January 01, 1970**
 Smart Software ; Smarter World.
 
 Contact: [https://apium.io/](https://apium.io/) · [chamath@apium.io](mailto:chamath@apium.io) · [0773028222](tel:0773028222) · [Chamath Dissanayake](https://www.linkedin.com/search/results/people/?keywords=Chamath+Dissanayake)
-
-## AppEmpower.ai
-
-<img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.appempower-ai.png" alt="AppEmpower.ai" style="height:100px; text-align:left;" />
-
-*"We innovate on how software is being developed"*
-
-Business Registration: **December 01, 2020**
-
-**IT Products · Platforms · UI / UX**
-
-**Traction** · Funding **Angel**
-
-AppEmpower.ai develops products that reduce time, and cost in software development
-
-Contact: [https://appempower.ai](https://appempower.ai) · [supun@appempower.ai](mailto:supun@appempower.ai) · [+94719998797](https://www.linkedin.com/search/results/people/?keywords=+94719998797)
 
 ## AppsDept
 
@@ -570,7 +602,7 @@ Contact: [https://appsdept.com/](https://appsdept.com/) · [udesh@appsdept.com](
 
 *"Apps for Business Optimization"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Services · IT Products · Artificial Intelligence**
 
@@ -586,7 +618,7 @@ Contact: [Https://apptimustech.com](Https://apptimustech.com) · [anojan@apptimu
 
 *"Where the Technology Comes alive"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Internet of Things · Manufacturing · e-commerce**
 
@@ -660,6 +692,22 @@ We’re a digital production studio focusing heavily on design and development.
 
 Contact: [http://aspire360.net/](http://aspire360.net/) · [nayana@mydream.lk](mailto:nayana@mydream.lk) · [0712143305](tel:0712143305) · [Nayana Narasinghe](https://www.linkedin.com/search/results/people/?keywords=Nayana+Narasinghe)
 
+## Assistia
+
+<img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.assistia.png" alt="Assistia" style="height:100px; text-align:left;" />
+
+*"Beyond the best"*
+
+Business Registration: **May 31, 2017**
+
+**IT Services · IT Products · Digital Marketing**
+
+**Profit** · Funding **Venture Capital**
+
+Assistia is a privately held company, consisted of creative and multi-talented web designers.
+
+Contact: [https://assistia.lk/](https://assistia.lk/) · [latheep@gmail.com](mailto:latheep@gmail.com) · [0762782323](tel:0762782323) · [Latheep Pararajasingam](https://www.linkedin.com/search/results/people/?keywords=Latheep+Pararajasingam)
+
 ## ATHLAN (PVT) LTD
 
 <img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.athlan-pvt-ltd.png" alt="ATHLAN (PVT) LTD" style="height:100px; text-align:left;" />
@@ -714,7 +762,7 @@ Contact: [https://audici.us/](https://audici.us/) · [kasun.mck@gmail.com](mailt
 
 *"Make your Business a Success"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Financial/Fintech · IT Products · Computer Hardware**
 
@@ -762,7 +810,7 @@ Contact: [https://authnex.com/](https://authnex.com/) · [chamara@authnex.com](m
 
 *"Passion-Innovation-Realization"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Medical & Health/ Medtech · Media**
 
@@ -810,7 +858,7 @@ Contact: [https://axisxnor.com/](https://axisxnor.com/) · [tshainu@axisxnor.com
 
 *"#axowave"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Products**
 
@@ -842,7 +890,7 @@ Contact: [https://ayodaana.com/](https://ayodaana.com/) · [sanju.peramuna@gmail
 
 *"Travel Together"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Travel & Tourism · Platforms · Entertainment**
 
@@ -858,7 +906,7 @@ Contact: [https://www.rassanbatcha.com/](https://www.rassanbatcha.com/) · [rass
 
 *"Your Digital Beekeeping Partner"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Internet of Things · Agricultural/ Agritech**
 
@@ -874,7 +922,7 @@ Contact: [http://beesmart.lk/](http://beesmart.lk/) · [thushyantha77@gmail.com]
 
 *"Multi-disciplinary software company"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Services · Artificial Intelligence · Cloud Computing**
 
@@ -922,7 +970,7 @@ Contact: [https://bistecglobal.com/](https://bistecglobal.com/) · [johann@biste
 
 *"hardware development board"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Electronics and Electrical · Robotic Process Automation (RPA) · Machine Learning**
 
@@ -930,7 +978,7 @@ Business Registration: **January 01, 1970**
 
 BitFusionLab is an open-source hardware development board providing innovative features for electron
 
-Contact: [https://bitfusionlab.com](https://bitfusionlab.com) · [dinindu.kausha@gmail.com](mailto:dinindu.kausha@gmail.com) · [0710472919](tel:0710472919) · [Dinindu kaushalya](https://www.linkedin.com/search/results/people/?keywords=Dinindu+kaushalya)
+Contact: [https://bitfusionlab.web.app](https://bitfusionlab.web.app) · [dinindu.kausha@gmail.com](mailto:dinindu.kausha@gmail.com) · [0710472919](tel:0710472919) · [Dinindu kaushalya](https://www.linkedin.com/search/results/people/?keywords=Dinindu+kaushalya)
 
 ## Bitzify
 
@@ -988,13 +1036,13 @@ Contact: [https://www.blackhatforce.com](https://www.blackhatforce.com) · [amil
 
 Business Registration: **November 02, 2017**
 
-**IT Products · IT Products · Cloud Computing**
+**IT Products · IT Services · Cloud Computing**
 
 **Profit** · Funding **Series A**
 
-BLUE LOTUS 360 is a highly configurable subscription based cloud erp solution.
+BLUE LOTUS 360 is a highly configurable subscription-based cloud erp & hrm solution.
 
-Contact: [www.bluelotus360.com](www.bluelotus360.com) · [nithushan@bluelotus360.com,kumar@bluelotus360.com,mailto:sachithra@bluelotus360.com](mailto:nithushan@bluelotus360.com,kumar@bluelotus360.com,mailto:sachithra@bluelotus360.com) · [+94718646215](https://www.linkedin.com/search/results/people/?keywords=+94718646215)
+Contact: [www.bluelotus360.com](www.bluelotus360.com) · [nithushan@bluelotus360.com](mailto:nithushan@bluelotus360.com) · [+94718646215](https://www.linkedin.com/search/results/people/?keywords=+94718646215)
 
 ## Bluechip Technologies Asia
 
@@ -1044,13 +1092,29 @@ BoardPAC is a leading Board Meeting Automation solution
 
 Contact: [http://www.boardpac.co/](http://www.boardpac.co/) · [lakminiw@boardpac.co](mailto:lakminiw@boardpac.co) · [94112300500](https://www.linkedin.com/search/results/people/?keywords=94112300500)
 
+## BooleanLab (Private) Limited
+
+<img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.booleanlab-private-limited.png" alt="BooleanLab (Private) Limited" style="height:100px; text-align:left;" />
+
+*"Intelligene Unleashed"*
+
+Business Registration: **December 31, 1969**
+
+**Artificial Intelligence · Machine Learning · Cloud Computing**
+
+**Stable** · Funding **Pre-seed**
+
+BooleanLab is a R&D , Product-Technology Company
+
+Contact: [https://booleanlabs.biz](https://booleanlabs.biz) · [nuwan@booleanlabs.biz](mailto:nuwan@booleanlabs.biz) · [94773422272](https://www.linkedin.com/search/results/people/?keywords=94773422272)
+
 ## BoostBiz
 
 <img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.boostbiz.png" alt="BoostBiz" style="height:100px; text-align:left;" />
 
 *"Digital Marketing Company"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Digital Marketing · Mobile Application · IT Services**
 
@@ -1066,7 +1130,7 @@ Contact: [https://www.boostbiz.lk](https://www.boostbiz.lk) · [0777563213](tel:
 
 *"lift yourself to branded"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Fashion · Mobile Application · e-commerce**
 
@@ -1115,7 +1179,7 @@ Contact: [https://braxmarketing.net/](https://braxmarketing.net/) · [kirulbadde
 
 *"Make Your Own Automations"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Services · Cloud Computing**
 
@@ -1131,7 +1195,7 @@ Contact: [https://www.browserbird.com/](https://www.browserbird.com/) · [naseef
 
 *"Budget Pay"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **e-commerce · Mobile Application · Financial/Fintech**
 
@@ -1260,7 +1324,7 @@ Contact: [http://canopus.lk](http://canopus.lk) · [thulasivarman@gmail.com](mai
 
 *"Nation's Career Guidance Platform"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Educational/ Edutech · Human Resource · Social Innovation**
 
@@ -1324,7 +1388,7 @@ Contact: [vinota.com](vinota.com) · [0777416419](tel:0777416419) · [Harinda Da
 
 *"Moving Srilanken IT to the Cloud"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Cloud Computing · IT Products · IT Services**
 
@@ -1356,7 +1420,7 @@ Contact: [https://ceydigital.com/](https://ceydigital.com/) · [kalinga@ceydigit
 
 *"empowering humans"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Products**
 
@@ -1404,7 +1468,7 @@ Contact: [https://ceyleon.com](https://ceyleon.com) · [dilan@ceyleon.com](mailt
 
 *"We are industry expert in Web Design & Development since 2016"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Services · IT Products · Digital Marketing**
 
@@ -1420,7 +1484,7 @@ Contact: [https://ceyloncreations.com/](https://ceyloncreations.com/) · [-](htt
 
 *"Celebrate Sri Lanka"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Arts & Culture · e-commerce**
 
@@ -1430,29 +1494,13 @@ A 100% Sri Lankan made lifestyle goods store
 
 Contact: [https://ceylonproject.com/](https://ceylonproject.com/) · [harindu.alwis@gmail.com](mailto:harindu.alwis@gmail.com) · [0774422912](tel:0774422912) · [Harindu Alwis](https://www.linkedin.com/search/results/people/?keywords=Harindu+Alwis)
 
-## Ceylon Sky
-
-<img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.ceylon-sky.png" alt="Ceylon Sky" style="height:100px; text-align:left;" />
-
-*"Under Ceylon Sky"*
-
-Business Registration: **September 01, 2020**
-
-**e-commerce · e-commerce · e-commerce**
-
-**Ideation** · Funding **Seed**
-
-We would like to introduce ourselves as one of the reseller as well as exporters of organic product
-
-Contact: [http://cinnoplus.com/](http://cinnoplus.com/) · [askdanushka@gmail.com](mailto:askdanushka@gmail.com) · [0705894780](tel:0705894780) · [Dhanushka Bandara](https://www.linkedin.com/search/results/people/?keywords=Dhanushka+Bandara)
-
 ## Ceylonix Solutions (Pvt)Ltd
 
 <img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.ceylonix-solutions-pvt-ltd.png" alt="Ceylonix Solutions (Pvt)Ltd" style="height:100px; text-align:left;" />
 
 *"Digital Agency"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Services · IT Products · Consulting**
 
@@ -1532,7 +1580,7 @@ Contact: [http://www.cipherlabz.com](http://www.cipherlabz.com) · [lalindra@cip
 
 *"Empowering Robotics Education in Sri Lanka"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Educational/ Edutech · Robotics · Platforms**
 
@@ -1548,7 +1596,7 @@ Contact: [https://circuitbreakerssl.com](https://circuitbreakerssl.com) · [deep
 
 *"Make the world a better place"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Cloud Computing · IT Services · Robotics**
 
@@ -1557,6 +1605,22 @@ Business Registration: **January 01, 1970**
 We are trying to solve the patient queueing issues that exist in the current process in Srilanka.
 
 Contact: [https://madupiz.wixsite.com/cloud9](https://madupiz.wixsite.com/cloud9) · [madupiz@gmail.com](mailto:madupiz@gmail.com) · [0763445224](tel:0763445224) · [B Madusha Perera](https://www.linkedin.com/search/results/people/?keywords=B+Madusha+Perera)
+
+## CloudeDesign
+
+<img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.cloudedesign.png" alt="CloudeDesign" style="height:100px; text-align:left;" />
+
+*"We help you define your brand"*
+
+Business Registration: **September 01, 2020**
+
+**Digital Marketing · IT Services · Other**
+
+**Traction** · Funding **Venture Capital**
+
+We would like to introduce ourselves as one of the reseller as well as exporters of organic product
+
+Contact: [http://www.cloudedesign.com/](http://www.cloudedesign.com/) · [askdanushka@gmail.com](mailto:askdanushka@gmail.com) · [0705894780](tel:0705894780) · [Dhanushka Bandara](https://www.linkedin.com/search/results/people/?keywords=Dhanushka+Bandara)
 
 ## Clover Partners
 
@@ -1580,7 +1644,7 @@ Contact: [https://cloverpartners.lk/](https://cloverpartners.lk/) · [pathum@clo
 
 *"QUALITY, BEST PRICE, SPEED .....SOLUTION FOR ALL CONSULTANCY REQUIREMENTS"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Financial/Fintech · Consulting · Not for Profit**
 
@@ -1628,7 +1692,7 @@ Contact: [https://www.codehub.lk](https://www.codehub.lk) · [info@codehub.lk](m
 
 *"codeofit"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Products · Consulting · IT Services**
 
@@ -1676,7 +1740,7 @@ Contact: [https://codelk.com](https://codelk.com) · [biz@codelk.com](mailto:biz
 
 *"Micro-Integration Made Simple"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Services · Cloud Computing · Platforms**
 
@@ -1692,7 +1756,7 @@ Contact: [http://codeobe.cloud/](http://codeobe.cloud/) · [susindaus@gmail.com]
 
 *"Digitally Yours."*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Educational/ Edutech · Agricultural/ Agritech · Platforms**
 
@@ -1708,7 +1772,7 @@ Contact: [https://coderay.lk/](https://coderay.lk/) · [coderaylk@gmail.com](mai
 
 *"Vitalizing Businesses to the next level"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Services · IT Products · Financial/Fintech**
 
@@ -1852,7 +1916,7 @@ Contact: [www.concon.lk](www.concon.lk) · [roshith@concon.lk](mailto:roshith@co
 
 *"Industry agnostic bespoke AI"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Artificial Intelligence · Machine Learning · IT Services**
 
@@ -1861,22 +1925,6 @@ Business Registration: **January 01, 1970**
 We provide industry agnostic bespoke AI solutions, research and consultancy.
 
 Contact: [https://conscient.ai](https://conscient.ai) · [cd@conscient.ai](mailto:cd@conscient.ai) · [0776212254](tel:0776212254) · [CD Athuraliya](https://www.linkedin.com/search/results/people/?keywords=CD+Athuraliya)
-
-## Content Analysis Tool
-
-<img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.content-analysis-tool.png" alt="Content Analysis Tool" style="height:100px; text-align:left;" />
-
-*"Write Smart! Game Uplift!"*
-
-Business Registration: **March 23, 2021**
-
-**IT Products · Digital Marketing · Machine Learning**
-
-**Traction** · Funding **Pre-seed**
-
-CAT helps smart content writing heroes to analyze resource articles and extract the essence.
-
-Contact: [https://www.contentanalysistool.com/](https://www.contentanalysistool.com/) · [hello@cloudboids.com](mailto:hello@cloudboids.com) · [0778805541](tel:0778805541) · [Ishan R](https://www.linkedin.com/search/results/people/?keywords=Ishan+R)
 
 ## ContentWorx
 
@@ -1980,7 +2028,7 @@ Contact: [www.crimsonlabs.net](www.crimsonlabs.net) · [email@crimsonlabs.net](m
 
 *"Next Generation Learning"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Educational/ Edutech · e-commerce · Artificial Intelligence**
 
@@ -1996,7 +2044,7 @@ Contact: [https://crowdlearn.co](https://crowdlearn.co) · [chathurika@adventaho
 
 *"cryptonix , cryptonix lanka"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Services · Digital Marketing · Mobile Application**
 
@@ -2080,7 +2128,7 @@ Business Registration: **April 09, 2020**
 
 **Artificial Intelligence · Internet of Things · Machine Learning**
 
-**Traction** · Funding **Pre-seed**
+**Break-Even** · Funding **Pre-seed**
 
 We build solutions that combine hardware and software to solve problems through data.
 
@@ -2140,7 +2188,7 @@ Contact: [https://mydeuel.com/](https://mydeuel.com/) · [darshan@mydeuel.com](m
 
 *"Your needs, our best"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Artificial Intelligence · Financial/Fintech · Educational/ Edutech**
 
@@ -2204,7 +2252,7 @@ Contact: [https://www.dilzon.com](https://www.dilzon.com) · [dileep@dilzon.com]
 
 *"Make Life Easy!"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Products · Mobile Application**
 
@@ -2268,7 +2316,7 @@ Contact: [https://divor.io](https://divor.io) · [sithira@divor.io](mailto:sithi
 
 *"Lets Make Things Better"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Educational/ Edutech · IT Products · IT Services**
 
@@ -2284,7 +2332,7 @@ Contact: [https://www.diygeek.lk](https://www.diygeek.lk) · [geeth@diygeek.lk](
 
 *"Donext do the best"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Services · IT Products · Digital Marketing**
 
@@ -2300,7 +2348,7 @@ Contact: [https://www.facebook.com/donext.online](https://www.facebook.com/donex
 
 *"Virtual Reality for the Business"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Digital Marketing · Real Estate · IT Services**
 
@@ -2316,7 +2364,7 @@ Contact: [http://dotcomsystems.lk/portfolio](http://dotcomsystems.lk/portfolio) 
 
 *"Sampling the Reality"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Entertainment · Media · UI / UX**
 
@@ -2380,7 +2428,7 @@ Contact: [https://earthunleashed.co/](https://earthunleashed.co/) · [kasun@eart
 
 *"E commerce"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **e-commerce · Digital Marketing · Retail**
 
@@ -2396,7 +2444,7 @@ Contact: [www.ebaby.lk](www.ebaby.lk) · [mybabylk99@gmail.com](mailto:mybabylk9
 
 *"Engineering Imagination"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Services · IT Products · Social Innovation**
 
@@ -2444,7 +2492,7 @@ Contact: [www.edugene.lk](www.edugene.lk) · [keethasanga@gmail.com](mailto:keet
 
 *"Revolutionizing Teaching and Studying"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Educational/ Edutech**
 
@@ -2474,9 +2522,9 @@ Contact: [https://edus.lk](https://edus.lk) · [sugeevanv@gmail.com](mailto:suge
 
 <img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.edvicon-international.png" alt="Edvicon International" style="height:100px; text-align:left;" />
 
-*"Making Your Edu World Better"*
+*"Quality Education... By Any Means Necessary"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Educational/ Edutech · IT Services · Events**
 
@@ -2556,7 +2604,7 @@ Contact: [https://electroleaftechnologies.com/](https://electroleaftechnologies.
 
 *"Protection against electricity"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Power & Energy · Internet of Things**
 
@@ -2652,7 +2700,7 @@ Contact: [http://www.enfount.com/](http://www.enfount.com/) · [themiya@enfount.
 
 *"Cloud ERP Solution"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Products · Platforms · Cloud Computing**
 
@@ -2732,7 +2780,7 @@ Contact: [www.entrylabs.net](www.entrylabs.net) · [samantha@entrylabs.net](mail
 
 *"Creative Design Agency"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Services · IT Products · Digital Marketing**
 
@@ -2796,7 +2844,7 @@ Contact: [https://epiclabs.lk](https://epiclabs.lk) · [janidujayasanka1996@gmai
 
 *"Create your future, Today"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Human Resource · IT Products · Medical & Health/ Medtech**
 
@@ -2844,7 +2892,7 @@ Contact: [https://eshops.lk/#/](https://eshops.lk/#/) · [harshana@offingtech.co
 
 *"Cheap & High Quality Digital Advertising for All"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Internet of Things · Digital Marketing · Computer Hardware**
 
@@ -2853,6 +2901,22 @@ Business Registration: **January 01, 1970**
 We offer the best digital signage related solutions for the lowest price.
 
 Contact: [https://cepdnaclk.github.io/e16-3yp-digital-signage-based-user-targeted-advertising/](https://cepdnaclk.github.io/e16-3yp-digital-signage-based-user-targeted-advertising/) · [smviraj@gmail.com](mailto:smviraj@gmail.com) · [0714897508](tel:0714897508) · [S.M. Viraj Dhanushka](https://www.linkedin.com/search/results/people/?keywords=S.M.+Viraj+Dhanushka)
+
+## ESSHVA
+
+<img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.esshva.png" alt="ESSHVA" style="height:100px; text-align:left;" />
+
+*"A Step Ahead"*
+
+Business Registration: **January 16, 2018**
+
+**Consulting · IT Services · Mobile Application**
+
+**Ideation** · Funding **Pre-seed**
+
+We are a startup providing services to its customers, and building our own products to be launched
+
+Contact: [https://esshva.com/](https://esshva.com/) · [sujeev@esshva.com](mailto:sujeev@esshva.com) · [0772387898](tel:0772387898) · [Sujeev Rajakulendran](https://www.linkedin.com/search/results/people/?keywords=Sujeev+Rajakulendran)
 
 ## Etecnovos (Pvt) Ltd
 
@@ -2892,7 +2956,7 @@ Contact: [https://etutory.lk/](https://etutory.lk/) · [paranit@yahoo.com](mailt
 
 *"Let's resolve this"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Products · IT Services · Robotics**
 
@@ -2908,7 +2972,7 @@ Contact: [https://www.facebook.com/Eureka-AI-Solutions-105449677915846](https://
 
 *"Infinite Possibilities"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Social Innovation · IT Products · Artificial Intelligence**
 
@@ -2924,7 +2988,7 @@ Contact: [https://judesajithaj.wixsite.com/eureka](https://judesajithaj.wixsite.
 
 *"Infinite Possibilities"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Artificial Intelligence · IT Products · Robotics**
 
@@ -3021,7 +3085,7 @@ Contact: [https://extrogene.com/](https://extrogene.com/) · [ruwan@extrogene.co
 
 *"Be the Change"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **July 06, 2020**
 
 **IT Services · e-commerce · UI / UX**
 
@@ -3077,7 +3141,7 @@ Business Registration: **August 12, 2020**
 
 Falcon Eye Corporation (FLEC) is the innovation leader in the Music Software creation industry.
 
-Contact: [http://www.falconeyesl.com/](http://www.falconeyesl.com/) · [buddhichalanga@gmail.com](mailto:buddhichalanga@gmail.com) · [0724293799](tel:0724293799) · [Buddhi Chalanga](https://www.linkedin.com/search/results/people/?keywords=Buddhi+Chalanga)
+Contact: [https://www.falconeyesl.com/](https://www.falconeyesl.com/) · [buddhichalanga@gmail.com](mailto:buddhichalanga@gmail.com) · [0724293799](tel:0724293799) · [Buddhi Chalanga](https://www.linkedin.com/search/results/people/?keywords=Buddhi+Chalanga)
 
 ## Farmo
 
@@ -3085,7 +3149,7 @@ Contact: [http://www.falconeyesl.com/](http://www.falconeyesl.com/) · [buddhich
 
 *"fresh to home"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **e-commerce · Agricultural/ Agritech · IT Services**
 
@@ -3101,7 +3165,7 @@ Contact: [www.farmo.lk](www.farmo.lk) · [0772222559](tel:0772222559) · [R B Pr
 
 *"Match Analyzing Tool"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Sports · Mobile Application · Machine Learning**
 
@@ -3133,7 +3197,7 @@ Contact: [www.fixel.digital](www.fixel.digital) · [anjula@fixel.lk](mailto:anju
 
 *"FREELANCE | EMPLOY | SUPPORT"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Human Resource · Platforms**
 
@@ -3165,7 +3229,7 @@ Contact: [https://www.flameback.tech/](https://www.flameback.tech/) · [janakaga
 
 *"Online based Gift Delivery"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **e-commerce · IT Services**
 
@@ -3197,7 +3261,7 @@ Contact: [https://www.flipbox.lk](https://www.flipbox.lk) · [sandul@flipbox.io]
 
 *"Ensure Customer Success"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Services · Consulting · Mobile Application**
 
@@ -3229,7 +3293,7 @@ Contact: [http://frammix.com/](http://frammix.com/) · [amodth@gmail.com, dmmadu
 
 *"Nidahas Vidyalaya"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Educational/ Edutech · IT Products · IT Services**
 
@@ -3245,7 +3309,7 @@ Contact: [http://nidahasvidyalaya.edu.lk/tuition](http://nidahasvidyalaya.edu.lk
 
 *"Save whales for better tomorrow"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Travel & Tourism**
 
@@ -3261,7 +3325,7 @@ Contact: [www.whales.lk](www.whales.lk) · [tgnilaweera@gmail.com](mailto:tgnila
 
 *"Hyperlocal online Marketplace"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **e-commerce · Food & Beverages · Agricultural/ Agritech**
 
@@ -3309,7 +3373,7 @@ Contact: [https://fundmesrilanka.lk/](https://fundmesrilanka.lk/) · [krish711k@
 
 *"Be Smart and Intelligent"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Products**
 
@@ -3318,6 +3382,22 @@ Business Registration: **January 01, 1970**
 Future focuses on delivering innovative solution to the society to make services smarter.
 
 Contact: [https://nishadidezoysa9.wixsite.com/future](https://nishadidezoysa9.wixsite.com/future) · [nishadidezoysa9@gmail.com](mailto:nishadidezoysa9@gmail.com) · [077335204](https://www.linkedin.com/search/results/people/?keywords=077335204)
+
+## Future ICT Solutions (PVT) Ltd
+
+<img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.future-ict-solutions-pvt-ltd.png" alt="Future ICT Solutions (PVT) Ltd" style="height:100px; text-align:left;" />
+
+*"To Convert Your Idea to Great Product"*
+
+Business Registration: **February 20, 2021**
+
+**Mobile Application · IT Products · IT Services**
+
+**Break-Even** · Funding **Seed**
+
+We are experts in custom application development. Using various platforms including open source
+
+Contact: [https://www.fficts.com](https://www.fficts.com) · [suresh@fficts.com](mailto:suresh@fficts.com) · [0773939492](tel:0773939492) · [H.M.G.S. Priyadharshana](https://www.linkedin.com/search/results/people/?keywords=H.M.G.S.+Priyadharshana)
 
 ## fuzzycook
 
@@ -3373,11 +3453,11 @@ Contact: [https://www.gamata.lk/](https://www.gamata.lk/) · [eranga@innoveura.c
 
 *"The Esports Company"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **November 01, 2018**
 
-**Sports · Entertainment · Events**
+**Sports · Entertainment · Digital Marketing**
 
-**Traction** · Funding **Series A**
+**Scaling** · Funding **Series A**
 
 Gamer.LK is in the business of Esports - the fastest growing sport in Sri Lanka today.
 
@@ -3389,7 +3469,7 @@ Contact: [https://gamer.lk](https://gamer.lk) · [raveen@ingame.lk](mailto:ravee
 
 *"Sri Lanka’s largest Community of Independent Game Developers."*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Entertainment · Platforms · Social Innovation**
 
@@ -3409,11 +3489,11 @@ Business Registration: **August 18, 2021**
 
 **Educational/ Edutech · Electronics and Electrical · Mobile Application**
 
-**Ideation** · Funding **Pre-seed**
+**Traction** · Funding **Pre-seed**
 
 Gavesha Labs makes awesome STEM educational tools for smart and creative kids.
 
-Contact: [https://gavesha.space/](https://gavesha.space/) · [ushan236@gmail.com](mailto:ushan236@gmail.com) · [94712578166](https://www.linkedin.com/search/results/people/?keywords=94712578166)
+Contact: [https://gavesha.space/](https://gavesha.space/) · [ushan@gavesha.space](mailto:ushan@gavesha.space) · [94712578166](https://www.linkedin.com/search/results/people/?keywords=94712578166)
 
 ## GDCreations
 
@@ -3469,7 +3549,7 @@ Contact: [http://geoedge.lk/](http://geoedge.lk/) · [anuradha.br@gmail.com](mai
 
 *"Gift Vouchers Made Easy"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **e-commerce · IT Products**
 
@@ -3533,7 +3613,7 @@ Contact: [https://www.gomicro.co/](https://www.gomicro.co/) · [sivam@gomicro.co
 
 *"We empower you to discover your potential, and breath life into your business idea"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Consulting · Digital Marketing · Other**
 
@@ -3597,7 +3677,7 @@ Contact: [www.grocers.lk](www.grocers.lk) · [0777794136](tel:0777794136) · [M 
 
 *"You ring We bring"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **e-commerce**
 
@@ -3613,7 +3693,7 @@ Contact: [https://grozop.lk/index.html?xid=vfaPUqXco0TrY4u778db04rPAE6TtGCh](htt
 
 *"Guardians helps constructors to improve productivity through IT solutions."*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **e-commerce**
 
@@ -3629,7 +3709,7 @@ Contact: [www.guardians.lk](www.guardians.lk) · [smsl.cs@gmail.com](mailto:smsl
 
 *"Connecting people to do good"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Platforms**
 
@@ -3645,7 +3725,7 @@ Contact: [https://gudppl.com/](https://gudppl.com/) · [+94777557055](https://ww
 
 *"Make farming smarter"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Agricultural/ Agritech · Food & Beverages**
 
@@ -3661,7 +3741,7 @@ Contact: [http://gurusinghe.org/](http://gurusinghe.org/) · [chairman@gurusingh
 
 *"happymarket.lk"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **e-commerce · Social Innovation · Consulting**
 
@@ -3693,7 +3773,7 @@ Contact: [https://www.hashnate.com/](https://www.hashnate.com/) · [ilhamsafeek@
 
 *"We Value You"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Digital Marketing · Design & Print · IT Services**
 
@@ -3741,7 +3821,7 @@ Contact: [www.heliosp2p.com](www.heliosp2p.com) · [+94776959325](https://www.li
 
 *"ENGINEERED FOR EXCELLENCE"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Products · IT Services · Mobile Application**
 
@@ -3757,7 +3837,7 @@ Contact: [https://www.hellixit.com](https://www.hellixit.com) · [nimesh.kasun@e
 
 *"Help.lk allows students to instantly connect with a subject expert to clarify their doubts."*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Educational/ Edutech**
 
@@ -3799,21 +3879,21 @@ We offer a highly customisable recruitment management system with a pure pay-as-
 
 Contact: [https://hiretrace.io](https://hiretrace.io) · [achirashamal@electrobeam.com](mailto:achirashamal@electrobeam.com) · [0774688713](tel:0774688713) · [Achira Jeewaka Shamal](https://www.linkedin.com/search/results/people/?keywords=Achira+Jeewaka+Shamal)
 
-## HUEX STUDIO
+## huex
 
-<img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.huex-studio.png" alt="HUEX STUDIO" style="height:100px; text-align:left;" />
+<img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.huex.png" alt="huex" style="height:100px; text-align:left;" />
 
-*"Human Experience"*
+*"A UX driven Full-Stack Software development powerhouse, designing & building solutions from startups to enterprises."*
 
-Business Registration: **January 01, 1970**
+Business Registration: **August 17, 2021**
 
-**UI / UX · IT Services · Consulting**
+**IT Services · Mobile Application · UI / UX**
 
-**Traction** · Funding **Pre-seed**
+**Profit** · Funding **Pre-seed**
 
-HUEX STUDIO is a design agency, Offers human-centered design solutions.
+A UX-driven Full-Stack Software development powerhouse, designing & building solutions.
 
-Contact: [www.huex.studio](www.huex.studio) · [-](https://www.linkedin.com/search/results/people/?keywords=-)
+Contact: [www.huex.io](www.huex.io) · [gobinthiran@huex.io](mailto:gobinthiran@huex.io) · [0094771516186](https://www.linkedin.com/search/results/people/?keywords=0094771516186)
 
 ## HUT 8 (Pvt) Ltd
 
@@ -3869,7 +3949,7 @@ Contact: [http://icptechnologies.lk/](http://icptechnologies.lk/) · [ceo@icptec
 
 *"Digital Marketing and Software Development Partner"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Digital Marketing · IT Services · e-commerce**
 
@@ -3885,15 +3965,15 @@ Contact: [http://www.icreativeworks.net/](http://www.icreativeworks.net/) · [-]
 
 *"ICT Learning Platform"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
-**IT Services · Educational/ Edutech · IT Services**
+**IT Services · Educational/ Edutech · e-commerce**
 
 **Ideation** · Funding **Pre-seed**
 
 ICT Guru is an ICT Learning platform for whole Sri Lanka. It's a learning app.
 
-Contact: [www.ictguru.lk](www.ictguru.lk) · [-](https://www.linkedin.com/search/results/people/?keywords=-)
+Contact: [www.ictguru.lk](www.ictguru.lk) · [venusha125@gmail.com](mailto:venusha125@gmail.com) · [0771731613](tel:0771731613) · [Venusha Dushmantha](https://www.linkedin.com/search/results/people/?keywords=Venusha+Dushmantha)
 
 ## ideaGeek
 
@@ -3949,7 +4029,7 @@ Contact: [www.ideamind.net](www.ideamind.net) · [0778329678](tel:0778329678) ·
 
 *"Do brave things"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Products · IT Services · Cloud Computing**
 
@@ -3981,7 +4061,7 @@ Contact: [http://www.igniterspace.com](http://www.igniterspace.com) · [jehan@ig
 
 *"FINANCE AT YOUR FINGER TIPS"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Financial/Fintech · Financial/Fintech · Platforms**
 
@@ -4125,7 +4205,7 @@ Contact: [https://infinitycs.com.lk/](https://infinitycs.com.lk/) · [amila@infi
 
 *"Innovation-driven cutting edge IT solutions"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Products · IT Services · Cloud Computing**
 
@@ -4151,13 +4231,29 @@ Infosense helps decision-makers analyze key banking metrics with intuitiveness.
 
 Contact: [http://www.infosensebanking.com/](http://www.infosensebanking.com/) · [lakminiw@boardpac.co](mailto:lakminiw@boardpac.co) · [0112300500](tel:0112300500) · [Lakmini Wijesundera](https://www.linkedin.com/search/results/people/?keywords=Lakmini+Wijesundera)
 
+## INFOWEB
+
+<img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.infoweb.png" alt="INFOWEB" style="height:100px; text-align:left;" />
+
+*"Empowered by Innovation"*
+
+Business Registration: **May 28, 2020**
+
+**IT Services · Cloud Computing · IT Products**
+
+**Scaling** · Funding **Seed**
+
+We are Software Development and a Web Development company.
+
+Contact: [https://www.infoweb.lk](https://www.infoweb.lk) · [sahans@infoweb.lk](mailto:sahans@infoweb.lk) · [0772240835](tel:0772240835) · [Sahan Sankalpa Palihawadana](https://www.linkedin.com/search/results/people/?keywords=Sahan+Sankalpa+Palihawadana)
+
 ## Infusion Studio
 
 <img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.infusion-studio.png" alt="Infusion Studio" style="height:100px; text-align:left;" />
 
 *"Events | Design"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Events**
 
@@ -4205,7 +4301,7 @@ Contact: [http://iq.lk/](http://iq.lk/) · [nadira@iq.lk](mailto:nadira@iq.lk) �
 
 *"Empowered by innovation. Driven by values."*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Services · Internet of Things · Machine Learning**
 
@@ -4237,7 +4333,7 @@ Contact: [http://www.innovator.lk/](http://www.innovator.lk/) · [slr.ranjank@gm
 
 *"Engineered for excellence"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Services · e-commerce · Financial/Fintech**
 
@@ -4267,17 +4363,17 @@ Contact: [https://inoovalab.org/](https://inoovalab.org/) · [rilfi@inoovalab.or
 
 <img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.inotrend-int-.png" alt="INOTREND Int." style="height:100px; text-align:left;" />
 
-*"Expanding Possibilities"*
+*"Redefining Possibilities"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
-**Digital Marketing · Consulting**
+**Digital Marketing · Consulting · Mobile Application**
 
 **Stable** · Funding **Pre-seed**
 
 Our Business Is To Solve Your Business Problems Today!
 
-Contact: [https://inotrend.net](https://inotrend.net) · [-](https://www.linkedin.com/search/results/people/?keywords=-)
+Contact: [https://inotrend.net](https://inotrend.net) · [ac@inotrend.net](mailto:ac@inotrend.net) · [0772212221](tel:0772212221) · [Abdul Careem](https://www.linkedin.com/search/results/people/?keywords=Abdul+Careem)
 
 ## Insel global Holdings PVT LTD
 
@@ -4285,7 +4381,7 @@ Contact: [https://inotrend.net](https://inotrend.net) · [-](https://www.linkedi
 
 *"We make it WOW"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Digital Marketing · IT Services · Media**
 
@@ -4302,7 +4398,7 @@ Contact: [https://insel.lk/](https://insel.lk/) · [rawanainghe@gmail.com](mailt
 
 *"Leval up your skills"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Educational/ Edutech**
 
@@ -4344,6 +4440,22 @@ We are an IT/BPM company that provides innovative IT solutions for Apparel Indus
 
 Contact: [https://www.intelegenza.com](https://www.intelegenza.com) · [frank@intelegenza.com](mailto:frank@intelegenza.com) · [0704019777](tel:0704019777) · [Ethigee  Frank Roshan Manjula De Silva](https://www.linkedin.com/search/results/people/?keywords=Ethigee++Frank+Roshan+Manjula+De+Silva)
 
+## Intelligent Lab
+
+<img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.intelligent-lab.png" alt="Intelligent Lab" style="height:100px; text-align:left;" />
+
+*"we give wings to your ideas !"*
+
+Business Registration: **December 31, 1969**
+
+**IT Products · Educational/ Edutech · Social Innovation**
+
+**Ideation** · Funding **Pre-seed**
+
+Intelligent Lab delivers comprehensive and innovative IT solutions to a diverse range of businesses
+
+Contact: [https://www.cloudera.com/](https://www.cloudera.com/) · [akeel.2019639@iit.ac.lk](mailto:akeel.2019639@iit.ac.lk) · [1 0094775223367](https://www.linkedin.com/search/results/people/?keywords=1+0094775223367)
+
 ## Intl Solutions Pvt Ltd
 
 <img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.intl-solutions-pvt-ltd.png" alt="Intl Solutions Pvt Ltd" style="height:100px; text-align:left;" />
@@ -4366,7 +4478,7 @@ Contact: [https://intlsolutionsgroup.com/](https://intlsolutionsgroup.com/) · [
 
 *"Connecting the Dots"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Internet of Things · Artificial Intelligence · Electronics and Electrical**
 
@@ -4447,7 +4559,7 @@ Contact: [http://iterminaltech.net/index.html](http://iterminaltech.net/index.ht
 
 *"connecting businesses"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **e-commerce**
 
@@ -4495,7 +4607,7 @@ Contact: [https://www.jetapp.lk](https://www.jetapp.lk) · [hiran@jetapp.lk](mai
 
 *"Blockchain Based Knowledge"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Products**
 
@@ -4541,7 +4653,7 @@ Contact: [https://www.kweera.com](https://www.kweera.com) · [kweeraeng@gmail.co
 
 <img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.karstation.png" alt="KARSTATION" style="height:100px; text-align:left;" />
 
-*"Automotive Automated"*
+*"Automating the Automotive Sector"*
 
 Business Registration: **July 11, 2014**
 
@@ -4559,7 +4671,7 @@ Contact: [https://karstation.com/](https://karstation.com/) · [ravithsilva@moto
 
 *"Strategic Partner"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Mobile Application · Robotic Process Automation (RPA) · e-commerce**
 
@@ -4575,7 +4687,7 @@ Contact: [kevitechsolutions.com](kevitechsolutions.com) · [info@kevitechsolutio
 
 *"Tech Assistant for your Business"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Services · Computer Hardware · Electronics and Electrical**
 
@@ -4639,15 +4751,15 @@ Contact: [https://lakmobile.com/](https://lakmobile.com/) · [info@lakmobile.com
 
 *"The Best Online Marketplace"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Platforms · e-commerce · IT Services**
 
-**Ideation** · Funding **Pre-seed**
+**Break-Even** · Funding **Pre-seed**
 
 Buy and Sell products and services on Lanka market in Minutes.
 
-Contact: [https://lankamarket.lk/](https://lankamarket.lk/) · [-](https://www.linkedin.com/search/results/people/?keywords=-)
+Contact: [https://lankamarket.lk/](https://lankamarket.lk/) · [admin@lankamarket.lk](mailto:admin@lankamarket.lk) · [0701112929](tel:0701112929) · [Pasindu Perera](https://www.linkedin.com/search/results/people/?keywords=Pasindu+Perera)
 
 ## Lanka Travel Mart (Pvt) Ltd
 
@@ -4799,7 +4911,7 @@ Contact: [https://leo-thelabel.com/](https://leo-thelabel.com/) · [sashini.dj@g
 
 *"The most loved travel deals marketplace in Sri Lanka"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Travel & Tourism**
 
@@ -4831,7 +4943,7 @@ Contact: [https://linearsquared.com/](https://linearsquared.com/) · [sankha@lin
 
 *"Innovation; Tomorrow; Today"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Products · Other · Artificial Intelligence**
 
@@ -4847,7 +4959,7 @@ Contact: [https://www.liveroom.xyz/](https://www.liveroom.xyz/) · [sameera@live
 
 *"A social garment clothing company"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **e-commerce · Fashion**
 
@@ -4943,7 +5055,7 @@ Contact: [https://makerstation.lk/](https://makerstation.lk/) · [ushan@makersta
 
 *"Takes issues sereiously"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Social Innovation · Mobile Application**
 
@@ -5037,7 +5149,7 @@ Contact: [https://mathsclub.net/](https://mathsclub.net/) · [Roshan@mathsclub.n
 
 <img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.maximise-me.png" alt="Maximise Me" style="height:100px; text-align:left;" />
 
-*"Conceive faster"*
+*"Get Fertile Fast"*
 
 Business Registration: **January 21, 2021**
 
@@ -5045,7 +5157,7 @@ Business Registration: **January 21, 2021**
 
 **Traction** · Funding **Pre-seed**
 
-Maximise Me is a digital platform for couples to maximise their Fertility success
+Maximise Me is a digital platform for couples to maximise their Fertility success.
 
 Contact: [https://maximiseme.life](https://maximiseme.life) · [niki@maximiseme.life](mailto:niki@maximiseme.life) · [0773367255](tel:0773367255) · [Niki Gomez](https://www.linkedin.com/search/results/people/?keywords=Niki+Gomez)
 
@@ -5055,7 +5167,7 @@ Contact: [https://maximiseme.life](https://maximiseme.life) · [niki@maximiseme.
 
 *"Digitization begins here"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Services · IT Products · Digital Marketing**
 
@@ -5071,7 +5183,7 @@ Contact: [https://mazzsolutions.com/](https://mazzsolutions.com/) · [ilthizzam@
 
 *"One of the best online exams modeling tool with GUI based exam creation platform"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Platforms · Educational/ Edutech · IT Services**
 
@@ -5087,7 +5199,7 @@ Contact: [https://www.mcqpapers.com/](https://www.mcqpapers.com/) · [mcsalinda@
 
 *"We help you succed"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Services · e-commerce · Digital Marketing**
 
@@ -5103,7 +5215,7 @@ Contact: [https://www.mediahorizonsl.com/](https://www.mediahorizonsl.com/) · [
 
 *"The pharmacy a nation can trust"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Medical & Health/ Medtech · Platforms · e-commerce**
 
@@ -5257,6 +5369,22 @@ Sri Lanka's Largest E commerce Network
 
 Contact: [https://www.mycart.lk/](https://www.mycart.lk/) · [-](https://www.linkedin.com/search/results/people/?keywords=-)
 
+## mydog.lk
+
+<img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.mydog-lk.png" alt="mydog.lk" style="height:100px; text-align:left;" />
+
+*"Cyber zone for doggy needs"*
+
+Business Registration: **June 25, 2020**
+
+**e-commerce · Digital Marketing · Educational/ Edutech**
+
+**Traction** · Funding **Seed**
+
+MyDog.lk is an ecommerce site, blog and a classified ads site specialized for dogs related needs.
+
+Contact: [https://mydog.lk/](https://mydog.lk/) · [isurub369@gmail.com](mailto:isurub369@gmail.com) · [0715521428](tel:0715521428) · [Anuradha Isuru Bandara Madahapola](https://www.linkedin.com/search/results/people/?keywords=Anuradha+Isuru+Bandara+Madahapola)
+
 ## Mymech
 
 <img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.mymech.png" alt="Mymech" style="height:100px; text-align:left;" />
@@ -5295,7 +5423,7 @@ Contact: [https://www.ninnovatives.com/](https://www.ninnovatives.com/) · [nale
 
 *"Buy & and Sell"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **e-commerce · Retail · Digital Marketing**
 
@@ -5327,7 +5455,7 @@ Contact: [http://nanatharana.lk/](http://nanatharana.lk/) · [ct.ranatunga@gmail
 
 *"Let Technology Empower You"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Services · IT Products · Consulting**
 
@@ -5359,7 +5487,7 @@ Contact: [http://nbitsoftware.net/](http://nbitsoftware.net/) · [0777793848](te
 
 *"Engineered For Humanity"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Services · IT Products · Cloud Computing**
 
@@ -5407,7 +5535,7 @@ Contact: [http://neominds.lk/](http://neominds.lk/) · [0713891285](tel:07138912
 
 *"Experience IT"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Products · Construction**
 
@@ -5437,13 +5565,13 @@ Contact: [www.newswire.lk](www.newswire.lk) · [0773982699](tel:0773982699) · [
 
 <img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.newtronix-innovations-pvt-ltd.png" alt="NewtroniX Innovations (Pvt) Ltd" style="height:100px; text-align:left;" />
 
-*"Electronic solutions"*
+*"Electronic and Automation solutions"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **June 19, 2021**
 
 **Manufacturing · Robotic Process Automation (RPA) · Internet of Things**
 
-**Break-Even** · Funding **Pre-seed**
+**Break-Even** · Funding **Seed**
 
 Electronic solutions providing company
 
@@ -5455,7 +5583,7 @@ Contact: [www.newtronixinnovations.com](www.newtronixinnovations.com) · [dinesh
 
 *"Grow your business with us"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Services · Digital Marketing · IT Products**
 
@@ -5513,6 +5641,22 @@ Software Development and Support Services
 
 Contact: [https://niogin.com](https://niogin.com) · [ramanan@niogin.com](mailto:ramanan@niogin.com) · [0777652225](tel:0777652225) · [S Ramanan](https://www.linkedin.com/search/results/people/?keywords=S+Ramanan)
 
+## NoCodeXpress
+
+<img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.nocodexpress.png" alt="NoCodeXpress" style="height:100px; text-align:left;" />
+
+*"A No-Code / Low-Code Full-Stack Development Platform"*
+
+Business Registration: **December 01, 2020**
+
+**IT Products · Platforms · UI / UX**
+
+**Traction** · Funding **Seed**
+
+NoCodeXpress is No-Code / Low-Code a full-stack web application development platform.
+
+Contact: [https://nocodexpress.app](https://nocodexpress.app) · [supun@appempower.ai](mailto:supun@appempower.ai) · [+94719998797](https://www.linkedin.com/search/results/people/?keywords=+94719998797)
+
 ## Northwood Consulting
 
 <img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.northwood-consulting.png" alt="Northwood Consulting" style="height:100px; text-align:left;" />
@@ -5551,7 +5695,7 @@ Contact: [www.novatechzone.com](www.novatechzone.com) · [harshana@novatechzone.
 
 *"We care your life"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Medical & Health/ Medtech · Food & Beverages**
 
@@ -5599,7 +5743,7 @@ Contact: [www.oensys.com](www.oensys.com) · [-](https://www.linkedin.com/search
 
 *"Accept Anything!"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Financial/Fintech**
 
@@ -5695,7 +5839,7 @@ Contact: [https://onlinetuition.lk](https://onlinetuition.lk) · [supunmasvg@gma
 
 *"Healthy Window To Your World"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Medical & Health/ Medtech · Artificial Intelligence · Machine Learning**
 
@@ -5711,7 +5855,7 @@ Contact: [http://ophthaes.xyz/](http://ophthaes.xyz/) · [shashikachamod.es@gmai
 
 *"Towards a smart and efficient manufacturing pipeline"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Manufacturing · IT Products · Cloud Computing**
 
@@ -5729,7 +5873,7 @@ Contact: [www.oqtaveoutfit.com](www.oqtaveoutfit.com) · [tharindu@oqtavelabs.co
 
 *"Solved by Orpheus"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Services · Mobile Application · Internet of Things**
 
@@ -5763,7 +5907,7 @@ Contact: [https://www.ostrio.com/](https://www.ostrio.com/) · [nuwan@ostrio.com
 
 Business Registration: **December 06, 2019**
 
-**e-commerce · Mobile Application · IT Services**
+**Medical & Health/ Medtech · Food & Beverages · e-commerce**
 
 **Traction** · Funding **Pre-seed**
 
@@ -5777,7 +5921,7 @@ Contact: [https://osuhala.lk](https://osuhala.lk) · [admin@osuhala.lk](mailto:a
 
 *"Your Future Starts Here"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Educational/ Edutech · IT Services · Artificial Intelligence**
 
@@ -5809,7 +5953,7 @@ Contact: [http://overleap.lk/](http://overleap.lk/) · [eranga@overleap.lk](mail
 
 *"owncity group of company"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **e-commerce · Food & Beverages · Retail**
 
@@ -5826,7 +5970,7 @@ Contact: [https://owncity.shop/](https://owncity.shop/) · [johnjohnsan2019@gmai
 
 *"No More Lines"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **e-commerce · Mobile Application · Cloud Computing**
 
@@ -5930,7 +6074,7 @@ Business Registration: **June 11, 2017**
 
 Park & Pay is designed to show available parking spots near you.
 
-Contact: [http://www.parkandpay.lk/](http://www.parkandpay.lk/) · [kanishka@paymedia.lk](mailto:kanishka@paymedia.lk) · [0777702000](tel:0777702000) · [Kanishka Weeramunda](https://www.linkedin.com/search/results/people/?keywords=Kanishka+Weeramunda)
+Contact: [http://www.paymedia.lk](http://www.paymedia.lk) · [kanishka@paymedia.lk](mailto:kanishka@paymedia.lk) · [0777702000](tel:0777702000) · [Kanishka Weeramunda](https://www.linkedin.com/search/results/people/?keywords=Kanishka+Weeramunda)
 
 ## Patta History
 
@@ -6018,7 +6162,7 @@ Contact: [pencilstore.lk](pencilstore.lk) · [rkokulakannan@gmail.com](mailto:rk
 
 *"Free yourself from complicated software and design the way you want with PenTool Design & Print."*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Design & Print**
 
@@ -6034,7 +6178,7 @@ Contact: [https://g.page/pentooldesignandprint](https://g.page/pentooldesignandp
 
 *"Common permit management solutions for the govenment"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Products · Mobile Application**
 
@@ -6050,7 +6194,7 @@ Contact: [https://permitly443793570.wordpress.com/](https://permitly443793570.wo
 
 *"Phonepay.lk Srilanka Largest Retailer Recharge Platform"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Mobile Application · Mobile Application · Mobile Application**
 
@@ -6066,7 +6210,7 @@ Contact: [https://www.phonepay.lk/](https://www.phonepay.lk/) · [thanushanth123
 
 *"photowhirl"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Platforms · Other · Other**
 
@@ -6090,7 +6234,7 @@ Business Registration: **January 29, 2021**
 
 We do web designing & development, graphic designing,branding,digital marketing,SEO, app development
 
-Contact: [https://www.phyxle.com/](https://www.phyxle.com/) · [dulantha.badc@gmail.com](mailto:dulantha.badc@gmail.com) · [0771207001](tel:0771207001) · [Dulantha Balasooriya](https://www.linkedin.com/search/results/people/?keywords=Dulantha+Balasooriya)
+Contact: [https://www.phyxle.com/](https://www.phyxle.com/) · [info@phyxle.com](mailto:info@phyxle.com) · [0771207001](tel:0771207001) · [Dulantha Balasooriya](https://www.linkedin.com/search/results/people/?keywords=Dulantha+Balasooriya)
 
 ## Pick N Learn (Private) Limited
 
@@ -6188,6 +6332,22 @@ We specialize in developing world-class business-to-business software solutions 
 
 Contact: [www.polygon3d.xyz](www.polygon3d.xyz) · [anojaan@polygon3d.xyz](mailto:anojaan@polygon3d.xyz) · [775342197](https://www.linkedin.com/search/results/people/?keywords=775342197)
 
+## Post Covid-19 Business Support
+
+<img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.post-covid-19-business-support.png" alt="Post Covid-19 Business Support" style="height:100px; text-align:left;" />
+
+*"Business Continuity Planning - Post Covid-19"*
+
+Business Registration: **December 31, 1969**
+
+**Consulting**
+
+**Traction** · Funding **Pre-seed**
+
+A digital transformation company focusing on business strategy development and business continuity
+
+Contact: [www.krishandpartners.net](www.krishandpartners.net) · [0777250183](tel:0777250183) · [Saddhatissa Rajawasam](https://www.linkedin.com/search/results/people/?keywords=Saddhatissa+Rajawasam)
+
 ## PREDICZO (PRIVATE) LIMITED
 
 <img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.prediczo-private-limited.png" alt="PREDICZO (PRIVATE) LIMITED" style="height:100px; text-align:left;" />
@@ -6210,7 +6370,7 @@ Contact: [http://prediczo.com/](http://prediczo.com/) · [selvendra@gmail.com](m
 
 *"Why Make Trash, When you can make Cash?!"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Social Innovation · Green Technology · Internet of Things**
 
@@ -6258,7 +6418,7 @@ Contact: [http://prodigi.lk/](http://prodigi.lk/) · [-](https://www.linkedin.co
 
 *"We build winning class products."*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Products · IT Services · Consulting**
 
@@ -6323,7 +6483,7 @@ Contact: [www.qbus.lk](www.qbus.lk) · [tbtshan@gmail.com](mailto:tbtshan@gmail.
 
 *"Smarter Learning, Better Performance"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Educational/ Edutech · Mobile Application · Machine Learning**
 
@@ -6339,7 +6499,7 @@ Contact: [http://qfinity.lk/](http://qfinity.lk/) · [manuja.nbh@gmail.com](mail
 
 *"We build a strong team of great people"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Services · Mobile Application · Cloud Computing**
 
@@ -6355,7 +6515,7 @@ Contact: [https://quadrate.lk](https://quadrate.lk) · [info@quadrate.lk](mailto
 
 *"One-stop solution"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Products · IT Services · Mobile Application**
 
@@ -6371,7 +6531,7 @@ Contact: [https://qualtwaresoftlab.com/](https://qualtwaresoftlab.com/) · [sith
 
 *"The Future is Imminent"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Products · IT Services · Internet of Things**
 
@@ -6387,7 +6547,7 @@ Contact: [https://quantalab.tech](https://quantalab.tech) · [dee@quantalab.tech
 
 *"Simplicity, Precision, Progress"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Consulting · Mobile Application · e-commerce**
 
@@ -6403,7 +6563,7 @@ Contact: [https://www.quantalect.com](https://www.quantalect.com) · [Janaka.Ran
 
 *"Because you've got better things to do."*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Services · Human Resource · Digital Marketing**
 
@@ -6419,7 +6579,7 @@ Contact: [https://www.quickmonday.com](https://www.quickmonday.com) · [roshana@
 
 *"We connect devices, data and people"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Telecommunication and Networking · Agricultural/ Agritech · Platforms**
 
@@ -6459,7 +6619,7 @@ Business Registration: **December 05, 2019**
 
 We are providing Website Designing, SEO, Website Development, MobileApp Development in Jaffna, LK
 
-Contact: [https://www.rajcreation.lk](https://www.rajcreation.lk) · [shanmugarajah25@gmail.com](mailto:shanmugarajah25@gmail.com) · [0754353370](tel:0754353370) · [Nadarajah Shanmugarajah](https://www.linkedin.com/search/results/people/?keywords=Nadarajah+Shanmugarajah)
+Contact: [https://www.rajcreation.lk](https://www.rajcreation.lk) · [rajcrea@gmail.com](mailto:rajcrea@gmail.com) · [0754353370](tel:0754353370) · [Nadarajah Shanmugarajah](https://www.linkedin.com/search/results/people/?keywords=Nadarajah+Shanmugarajah)
 
 ## Rameca Technology Solutions(PVT) Ltd
 
@@ -6531,7 +6691,7 @@ Contact: [https://ravanaaviation.com/nature/](https://ravanaaviation.com/nature/
 
 *"Leap to Experience"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **UI / UX · Design & Print · IT Products**
 
@@ -6693,13 +6853,13 @@ Contact: [https://rocketdesignsl.com/](https://rocketdesignsl.com/) · [udarak@l
 
 Business Registration: **April 06, 2019**
 
-**Travel & Tourism**
+**IT Services · Travel & Tourism · e-commerce**
 
 **Profit** · Funding **Series A**
 
 Ideas into reality!
 
-Contact: [http://rocketeerlabs.com](http://rocketeerlabs.com) · [-](https://www.linkedin.com/search/results/people/?keywords=-)
+Contact: [https://rocketeerlabs.com](https://rocketeerlabs.com) · [andrew@rocketeerlabs.com](mailto:andrew@rocketeerlabs.com) · [0741612227](tel:0741612227) · [-](https://www.linkedin.com/search/results/people/?keywords=-)
 
 ## Rootcode Labs
 
@@ -6787,7 +6947,7 @@ Contact: [https://www.sc.lk/](https://www.sc.lk/) · [sc@sc.lk](mailto:sc@sc.lk)
 
 *"education"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Educational/ Edutech**
 
@@ -6835,7 +6995,7 @@ Contact: [http://www.scories.co.uk/](http://www.scories.co.uk/) · [kchaturanga@
 
 *"Crossing Lines"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Services · Cloud Computing · Machine Learning**
 
@@ -6851,7 +7011,7 @@ Contact: [https://thescribbles.web.app/](https://thescribbles.web.app/) · [ashr
 
 *"The age of the Seafarer"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Green Technology · IT Services · Life Sciences**
 
@@ -6877,22 +7037,6 @@ We are Data Science driven software solution provider to push boundaries by the 
 
 Contact: [http://www.seeamles.com/](http://www.seeamles.com/) · [kanchana@seeamles.com](mailto:kanchana@seeamles.com) · [0762318706](tel:0762318706) · [Kanchana Weerasinghe](https://www.linkedin.com/search/results/people/?keywords=Kanchana+Weerasinghe)
 
-## SeekBit
-
-<img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.seekbit.png" alt="SeekBit" style="height:100px; text-align:left;" />
-
-*"Inspiring minds"*
-
-Business Registration: **January 01, 1970**
-
-**IT Products · Mobile Application · UI / UX**
-
-**Ideation** · Funding **Pre-seed**
-
-SeekBit is a company which provides software solutions to the localized market.
-
-Contact: [https://www.facebook.com/SeekBit-106495784474608](https://www.facebook.com/SeekBit-106495784474608) · [amatharu702@gmail.com](mailto:amatharu702@gmail.com) · [0703835840](tel:0703835840) · [Kaushika Kavindi Kahatapitiya](https://www.linkedin.com/search/results/people/?keywords=Kaushika+Kavindi+Kahatapitiya)
-
 ## Semba Services
 
 <img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.semba-services.png" alt="Semba Services" style="height:100px; text-align:left;" />
@@ -6908,6 +7052,22 @@ Business Registration: **December 03, 2019**
 Travel and delivery App
 
 Contact: [http://www.semba.lk/](http://www.semba.lk/) · [0777769751](tel:0777769751) · [S Anuraj](https://www.linkedin.com/search/results/people/?keywords=S+Anuraj)
+
+## Seneru Information Technologies (Pvt) Ltd
+
+<img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.seneru-information-technologies-pvt-ltd.png" alt="Seneru Information Technologies (Pvt) Ltd" style="height:100px; text-align:left;" />
+
+*"Innovation to your business"*
+
+Business Registration: **December 31, 1969**
+
+**IT Services · Financial/Fintech · Logistics**
+
+**Break-Even** · Funding **Pre-seed**
+
+Trusted software development and service partner for business applications.
+
+Contact: [https://www.seneru.com](https://www.seneru.com) · [senaka@seneru.com](mailto:senaka@seneru.com) · [94714572747](https://www.linkedin.com/search/results/people/?keywords=94714572747)
 
 ## SenzAgro Technologies
 
@@ -6997,7 +7157,7 @@ Contact: [http://sethitsolutions.com](http://sethitsolutions.com) · [shadrach.f
 
 *"Empowered By Innovations"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Products · Agricultural/ Agritech · Automotive**
 
@@ -7029,7 +7189,7 @@ Contact: [https://www.shawebdesign.com/](https://www.shawebdesign.com/) · [kush
 
 *"Bridging The Gap Between  Distributors &  Shop owners"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Social Innovation · Logistics · Financial/Fintech**
 
@@ -7093,7 +7253,7 @@ Contact: [www.shopbox.lk](www.shopbox.lk) · [-](https://www.linkedin.com/search
 
 *"Build your own Online Shop here"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Products · e-commerce · Platforms**
 
@@ -7109,7 +7269,7 @@ Contact: [https://www.shophere.lk](https://www.shophere.lk) · [-](https://www.l
 
 *"Headline reading with a new twist"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Media**
 
@@ -7125,7 +7285,7 @@ Contact: [https://shortnews.work](https://shortnews.work) · [shortnews4u@gmail.
 
 *"Build Winning Relationships with Your Customers"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Platforms · Digital Marketing · IT Products**
 
@@ -7237,7 +7397,7 @@ Contact: [https://skillup.lk/](https://skillup.lk/) · [bihan@smartedu.lk](mailt
 
 *"Buy and Sell Made in Sri Lanka Products"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **e-commerce · Digital Marketing · Platforms**
 
@@ -7333,7 +7493,7 @@ Contact: [https://www.softgallery.io](https://www.softgallery.io) · [hello@soft
 
 *"Disruptive Innovation"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Educational/ Edutech**
 
@@ -7349,7 +7509,7 @@ Contact: [https://sparkle-innovations.github.io/ar/](https://sparkle-innovations
 
 *"Made Life Easy"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Internet of Things · Manufacturing · Electronics and Electrical**
 
@@ -7381,7 +7541,7 @@ Contact: [https://spemai.com](https://spemai.com) · [amila.fernando@spemai.com]
 
 *"Social app for feedback & improvement"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Platforms**
 
@@ -7397,7 +7557,7 @@ Contact: [https://www.spokk.io](https://www.spokk.io) · [sameshwijeweera@gmail.
 
 *"Fastest Web Hosting Provider"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Cloud Computing · IT Products · IT Services**
 
@@ -7429,9 +7589,9 @@ Contact: [https://www.srqrobotics.com/](https://www.srqrobotics.com/) · [tharin
 
 *"Everything is design"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
-**IT Services · Digital Marketing · UI / UX**
+**IT Services · Digital Marketing · e-commerce**
 
 **Scaling** · Funding **Pre-seed**
 
@@ -7455,6 +7615,22 @@ we are software development company
 
 Contact: [http://stepheninnovations.com/](http://stepheninnovations.com/) · [judestephen7733@gmail.com](mailto:judestephen7733@gmail.com) · [0774597733](tel:0774597733) · [Jude Stephen](https://www.linkedin.com/search/results/people/?keywords=Jude+Stephen)
 
+## Strive
+
+<img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.strive.png" alt="Strive" style="height:100px; text-align:left;" />
+
+*"Spark Up Your Game ⚡"*
+
+Business Registration: **March 13, 2020**
+
+**Medical & Health/ Medtech · Sports · Social Innovation**
+
+**Traction** · Funding **Pre-seed**
+
+Physical and mental transformation that foster growth and happiness!
+
+Contact: [http://www.doyoustrive.com/](http://www.doyoustrive.com/) · [gayantha@emagine.lk](mailto:gayantha@emagine.lk) · [0777313330](tel:0777313330) · [Gayantha De Zoysa](https://www.linkedin.com/search/results/people/?keywords=Gayantha+De+Zoysa)
+
 ## Study Buddy Zone
 
 <img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.study-buddy-zone.png" alt="Study Buddy Zone" style="height:100px; text-align:left;" />
@@ -7477,7 +7653,7 @@ Contact: [http://studybuddyzone.com/home.php](http://studybuddyzone.com/home.php
 
 *"Innovative Online learning platform"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Products · Educational/ Edutech**
 
@@ -7631,6 +7807,22 @@ Taxperts is a tech-startup that established by the multidisciplinary team to eas
 
 Contact: [https://taxperts.lk](https://taxperts.lk) · [damith@taxperts.lk](mailto:damith@taxperts.lk) · [07735978894](https://www.linkedin.com/search/results/people/?keywords=07735978894)
 
+## TeakWoods - TEST
+
+<img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.teakwoods-test.png" alt="TeakWoods - TEST" style="height:100px; text-align:left;" />
+
+*"We are Teak"*
+
+Business Registration: **December 31, 1969**
+
+**Design & Print · Human Resource**
+
+**Ideation** · Funding **Pre-seed**
+
+We are Teak
+
+Contact: [https://mouthbysouthwest.com/](https://mouthbysouthwest.com/) · [lafir88@gmail.com](mailto:lafir88@gmail.com) · [0777934576](tel:0777934576) · [Lafir](https://www.linkedin.com/search/results/people/?keywords=Lafir)
+
 ## Technobrain International Pvt Ltd
 
 <img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.technobrain-international-pvt-ltd.png" alt="Technobrain International Pvt Ltd" style="height:100px; text-align:left;" />
@@ -7669,7 +7861,7 @@ Contact: [http://www.techtalents.lk](http://www.techtalents.lk) · [145asd@gmail
 
 *"The Digital Innovation Agency"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Services · Digital Marketing**
 
@@ -7678,6 +7870,22 @@ Business Registration: **January 01, 1970**
 We provide End-To-End bespoke website and integrated mobile app solution.
 
 Contact: [https://www.tectera.com](https://www.tectera.com) · [visha@tectera.com](mailto:visha@tectera.com) · [0774442225](tel:0774442225) · [Vishh Kugan](https://www.linkedin.com/search/results/people/?keywords=Vishh+Kugan)
+
+## Teesir
+
+<img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.teesir.png" alt="Teesir" style="height:100px; text-align:left;" />
+
+*"Custom Merch In Sri Lanka - Merch Simplified"*
+
+Business Registration: **August 11, 2016**
+
+**Internet of Things · e-commerce · Design & Print**
+
+**Traction** · Funding **Seed**
+
+Teesir is a product monetization platform to create and sell custom merchandise without risk.
+
+Contact: [https://teesir.lk/](https://teesir.lk/) · [charitha@teesir.lk](mailto:charitha@teesir.lk) · [94770077888](https://www.linkedin.com/search/results/people/?keywords=94770077888)
 
 ## Tekmaz
 
@@ -7733,7 +7941,7 @@ Contact: [https://www.teqto.lk/](https://www.teqto.lk/) · [vithujan@teqto.lk](m
 
 *"Fast Queue - Less Queue & Quick Checkout."*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Mobile Application · Food & Beverages · Artificial Intelligence**
 
@@ -7893,7 +8101,7 @@ Contact: [www.townchic.co](www.townchic.co) · [info@townchic.co](mailto:info@to
 
 *"IoT Based Visitor Management System"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Internet of Things · Cloud Computing · Platforms**
 
@@ -7909,7 +8117,7 @@ Contact: [www.traccular.com](www.traccular.com) · [ramanan@traccular.com](mailt
 
 *"Explore the Wonder of Asia in Comfort!"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Travel & Tourism**
 
@@ -7941,7 +8149,7 @@ Contact: [https://www.trakee.com/](https://www.trakee.com/) · [rishi@trakee.com
 
 *"Find top tourist attractions to explore, with travel times!"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Travel & Tourism**
 
@@ -8021,7 +8229,7 @@ Contact: [https://www.tunclab.com/](https://www.tunclab.com/) · [0777339803](te
 
 *"The future of school education"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Educational/ Edutech · IT Services · Mobile Application**
 
@@ -8053,7 +8261,7 @@ Contact: [https://www.unecast.com](https://www.unecast.com) · [0776773273](tel:
 
 *"Quality works always be our first choice"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Artificial Intelligence · Automotive · IT Products**
 
@@ -8069,7 +8277,7 @@ Contact: [http://www.unicornprofessional.ml](http://www.unicornprofessional.ml) 
 
 *"3D Printing and 3D Design"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Agricultural/ Agritech · Manufacturing · Manufacturing**
 
@@ -8085,7 +8293,7 @@ Contact: [null](null) · [chanakaprasadcw@gmail.com](mailto:chanakaprasadcw@gmai
 
 *"A university peer-to-peer platform to connect prospects, alumni, and current students"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Educational/ Edutech**
 
@@ -8181,7 +8389,7 @@ Contact: [null](null) · [thilee.verge@gmail.com](mailto:thilee.verge@gmail.com)
 
 *"Trusted | Secured | Transparent"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Services · IT Services · IT Services**
 
@@ -8261,7 +8469,7 @@ Contact: [https://www.visiontechbs.com/dashboard/](https://www.visiontechbs.com/
 
 *"The Leader in Disruptive Technology"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Services · Artificial Intelligence · Mobile Application**
 
@@ -8303,6 +8511,22 @@ Let's Make a New Virtual World!
 
 Contact: [https://www.vitalmasks.lk](https://www.vitalmasks.lk) · [avetha96@gmail.com](mailto:avetha96@gmail.com) · [0757652738](tel:0757652738) · [Vethakulan.A](https://www.linkedin.com/search/results/people/?keywords=Vethakulan.A)
 
+## Vixva Technology Enterprises Pvt Ltd
+
+<img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.vixva-technology-enterprises-pvt-ltd.png" alt="Vixva Technology Enterprises Pvt Ltd" style="height:100px; text-align:left;" />
+
+*"ASPIRING NEW HEIGHTS WITH TECHNOLOGY"*
+
+Business Registration: **March 31, 2021**
+
+**IT Services · Telecommunication and Networking · e-commerce**
+
+**Traction** · Funding **Seed**
+
+We build amazing websites and innovative applications.
+
+Contact: [https://vixva.com/](https://vixva.com/) · [supun@vixva.com](mailto:supun@vixva.com) · [0768213670](tel:0768213670) · [Supun Visvakula](https://www.linkedin.com/search/results/people/?keywords=Supun+Visvakula)
+
 ## VulcanD (Pvt) Ltd
 
 <img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.vulcand-pvt-ltd.png" alt="VulcanD (Pvt) Ltd" style="height:100px; text-align:left;" />
@@ -8325,7 +8549,7 @@ Contact: [https://inhalo.life/](https://inhalo.life/) · [0712924287](tel:071292
 
 *"Empowering localized digital service."*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Educational/ Edutech · IT Services · IT Products**
 
@@ -8341,7 +8565,7 @@ Contact: [http://w3genesis.com/](http://w3genesis.com/) · [asiriofficial@gmail.
 
 *"Battle with plastic"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Internet of Things · Green Technology · Social Innovation**
 
@@ -8357,7 +8581,7 @@ Contact: [http://battlewithplastic.com/](http://battlewithplastic.com/) · [venu
 
 *"We provide customized hydroponic setups to grow your own vegetables at home"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Agricultural/ Agritech · Internet of Things**
 
@@ -8471,11 +8695,11 @@ Contact: [https://whitespaceint.ca/](https://whitespaceint.ca/) · [Pemith@white
 
 Business Registration: **June 05, 2020**
 
-**Cloud Computing · IT Services · Cloud Computing**
+**Cloud Computing · IT Services · UI / UX**
 
 **Traction** · Funding **Pre-seed**
 
-Win Authority is a creative agency that offers web hosting solutions and website development service
+A group of passionate individuals that focus on creative innovation and growth through technology.
 
 Contact: [https://www.winauthority.com](https://www.winauthority.com) · [minhazmohamed@outlook.com](mailto:minhazmohamed@outlook.com) · [0777974779](tel:0777974779) · [Minhaz Irphan](https://www.linkedin.com/search/results/people/?keywords=Minhaz+Irphan)
 
@@ -8517,7 +8741,7 @@ Contact: [https://www.workhub24.com](https://www.workhub24.com) · [surajee@work
 
 *"All things health & fitness."*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Sports · Educational/ Edutech · Medical & Health/ Medtech**
 
@@ -8549,7 +8773,7 @@ Contact: [https://myherbals.lk/](https://myherbals.lk/) · [mihiltaholdings@gmai
 
 *"Anything Anytime"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Educational/ Edutech · e-commerce · IT Services**
 
@@ -8597,7 +8821,7 @@ Contact: [http://www.xeptagon.com/](http://www.xeptagon.com/) · [sapumal@xeptag
 
 *"We design for people"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Services · UI / UX · Cloud Computing**
 
@@ -8693,7 +8917,7 @@ Contact: [www.yohobed.com](www.yohobed.com) · [0773591519](tel:0773591519) · [
 
 *"Your one-stop solution app"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Platforms · e-commerce · Mobile Application**
 
@@ -8709,7 +8933,7 @@ Contact: [http://yoloways.com/](http://yoloways.com/) · [Gowthamysivaneswaran@g
 
 *"IT Products"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Products · IT Services · UI / UX**
 
@@ -8725,7 +8949,7 @@ Contact: [http://zcodedevelopers.cf/](http://zcodedevelopers.cf/) · [aamaashiq@
 
 *"Zero Dependency Identities"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Platforms · IT Products · Other**
 
@@ -8735,13 +8959,29 @@ Self issued identities and Verifiable Credentials with credibility and reliabili
 
 Contact: [http://www.didsiop.org](http://www.didsiop.org) · [chim@fidenz.com](mailto:chim@fidenz.com) · [0718707620](tel:0718707620) · [Chim Himidumage](https://www.linkedin.com/search/results/people/?keywords=Chim+Himidumage)
 
+## Zeno Innovations (Pvt) Ltd.
+
+<img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.zeno-innovations-pvt-ltd-.png" alt="Zeno Innovations (Pvt) Ltd." style="height:100px; text-align:left;" />
+
+*"Think Innovative"*
+
+Business Registration: **December 26, 2017**
+
+**IT Products · IT Services · Consulting**
+
+**Traction** · Funding **Pre-seed**
+
+Zeno Innovations (Pvt) Ltd is an advance information technology solution provider in Sri Lanka.
+
+Contact: [https://zenolk.com/](https://zenolk.com/) · [ajith@zenolk.com](mailto:ajith@zenolk.com) · [0777601643](tel:0777601643) · [Ajijth Samaratunga](https://www.linkedin.com/search/results/people/?keywords=Ajijth+Samaratunga)
+
 ## Zeonleaps Solutions
 
 <img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.zeonleaps-solutions.png" alt="Zeonleaps Solutions" style="height:100px; text-align:left;" />
 
 *"Creativity-Exclusivity-Versatility"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **IT Services**
 
@@ -8767,6 +9007,22 @@ We believe in starting from 0 and working up to 1. The journey from 0 to 1 is of
 
 Contact: [https://zeroonetech.xyz/](https://zeroonetech.xyz/) · [isuru@zeroonetech.xyz](mailto:isuru@zeroonetech.xyz) · [0774606113](tel:0774606113) · [Isuru Dharmadasa](https://www.linkedin.com/search/results/people/?keywords=Isuru+Dharmadasa)
 
+## Zerotrash
+
+<img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.zerotrash.png" alt="Zerotrash" style="height:100px; text-align:left;" />
+
+*"Finding Solutions for plastic waste issues through a social enterprise"*
+
+Business Registration: **February 06, 2018**
+
+**Social Innovation · Green Technology · Other**
+
+**Traction** · Funding **Seed**
+
+Zerotrash is an early-stage plastic collector which is focusing on recyclable waste collection.
+
+Contact: [www.zerotrash.lk](www.zerotrash.lk) · [hasanka.padukka@gmail.com](mailto:hasanka.padukka@gmail.com) · [0773339055](tel:0773339055) · [Hasanka Padukka](https://www.linkedin.com/search/results/people/?keywords=Hasanka+Padukka)
+
 ## Ziphio Private Limited
 
 <img src="https://raw.githubusercontent.com/nuuuwan/startups_lk/data/startups_lk-images/image.ziphio-private-limited.png" alt="Ziphio Private Limited" style="height:100px; text-align:left;" />
@@ -8789,7 +9045,7 @@ Contact: [https://ziphio.com](https://ziphio.com) · [dileep@ziphio.com](mailto:
 
 *"Innovation Re Defined"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Educational/ Edutech**
 
@@ -8837,7 +9093,7 @@ Contact: [www.zodiumvalley.com](www.zodiumvalley.com) · [info@zodiumvalley.com]
 
 *"Working on a digital dream"*
 
-Business Registration: **January 01, 1970**
+Business Registration: **December 31, 1969**
 
 **Digital Marketing · e-commerce · Mobile Application**
 
@@ -8845,4 +9101,4 @@ Business Registration: **January 01, 1970**
 
 We Are A StartUp Company, Founded On 2019, With 5 Freelancers Co Founders
 
-Contact: [http://www.zyntreck.com](http://www.zyntreck.com) · [arjunagihan@gmail.com](mailto:arjunagihan@gmail.com) · [0774511000](tel:0774511000) · [Arjuna Gihan](https://www.linkedin.com/search/results/people/?keywords=Arjuna+Gihan)
+Contact: [https://www.zyntreck.com](https://www.zyntreck.com) · [arjunagihan@gmail.com](mailto:arjunagihan@gmail.com) · [0774511000](tel:0774511000) · [Arjuna Gihan](https://www.linkedin.com/search/results/people/?keywords=Arjuna+Gihan)
